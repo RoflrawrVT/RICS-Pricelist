@@ -29,29 +29,32 @@ class RICSStore {
             const itemsResponse = await fetch('data/StoreItems.json');
             const itemsData = await itemsResponse.json();
             
-            // The items are now under "items" property in the JSON
             if (itemsData.items) {
                 this.data.items = this.processItemsData(itemsData.items);
             } else {
-                // Fallback for old structure
                 this.data.items = this.processItemsData(itemsData);
             }
-            
             this.filteredData.items = [...this.data.items];
-
-            // Load other data types (you can add these later)
+    
+            // Load traits
+            const traitsResponse = await fetch('data/StoreTraits.json');
+            const traitsData = await traitsResponse.json();
+            this.data.traits = this.processTraitsData(traitsData);
+            this.filteredData.traits = [...this.data.traits];
+    
+            // Load other data types as needed
             // const eventsResponse = await fetch('data/StoreEvents.json');
             // const eventsData = await eventsResponse.json();
             // this.data.events = this.processEventsData(eventsData);
             // this.filteredData.events = [...this.data.events];
-
+    
             console.log('Data loaded:', {
                 items: this.data.items.length,
-                events: this.data.events.length,
                 traits: this.data.traits.length,
+                events: this.data.events.length,
                 races: this.data.races.length
             });
-
+    
         } catch (error) {
             console.error('Error loading data:', error);
             this.loadSampleData();
@@ -96,18 +99,37 @@ class RICSStore {
             .filter(event => event.enabled && event.price > 0);
     }
 
-    processTraitsData(data) {
-        // Adjust this based on your actual Traits JSON structure
-        return Object.entries(data)
-            .map(([defname, traitData]) => ({
-                defname,
-                name: traitData.CustomName || defname,
-                addPrice: traitData.AddPrice || 0,
-                removePrice: traitData.RemovePrice || 0,
-                description: traitData.Description || '',
-                enabled: traitData.Enabled !== false
-            }))
-            .filter(trait => trait.enabled && (trait.addPrice > 0 || trait.removePrice > 0));
+    processTraitsData(traitsObject) {
+        return Object.entries(traitsObject)
+            .map(([key, traitData]) => {
+                return {
+                    defName: traitData.DefName || key,
+                    name: traitData.Name || traitData.DefName || key,
+                    description: this.processTraitDescription(traitData.Description || ''),
+                    stats: traitData.Stats || [],
+                    conflicts: traitData.Conflicts || [],
+                    canAdd: traitData.CanAdd || false,
+                    canRemove: traitData.CanRemove || false,
+                    addPrice: traitData.AddPrice || 0,
+                    removePrice: traitData.RemovePrice || 0,
+                    bypassLimit: traitData.BypassLimit || false,
+                    modSource: traitData.ModSource || 'Unknown'
+                };
+            })
+            .filter(trait => {
+                // Only include if at least one operation is allowed
+                return trait.canAdd || trait.canRemove;
+            })
+            .filter(trait => trait.addPrice > 0 || trait.removePrice > 0); // Only traits with prices
+    }
+
+    processTraitDescription(description) {
+    // Replace the pawn placeholders with traditional names
+    return description
+        .replace(/{PAWN_nameDef}/g, 'Timmy')
+        .replace(/{PAWN_pronoun}/g, 'he')
+        .replace(/{PAWN_possessive}/g, 'his')
+        .replace(/{PAWN_objective}/g, 'him');
     }
 
     processRacesData(data) {
@@ -190,21 +212,62 @@ class RICSStore {
     renderTraits() {
         const tbody = document.getElementById('traits-tbody');
         const traits = this.filteredData.traits;
-
+    
         if (traits.length === 0) {
             tbody.innerHTML = '<tr><td colspan="4" style="text-align: center; padding: 40px;">No traits found</td></tr>';
             return;
         }
-
+    
         tbody.innerHTML = traits.map(trait => `
             <tr>
-                <td>${this.escapeHtml(trait.name)}</td>
-                <td>${trait.addPrice > 0 ? trait.addPrice : 'N/A'}</td>
-                <td>${trait.removePrice > 0 ? trait.removePrice : 'N/A'}</td>
-                <td>${this.escapeHtml(trait.description)}</td>
+                <td>
+                    <div class="item-name">${this.escapeHtml(trait.name)}</div>
+                    <span class="metadata">
+                        ${this.escapeHtml(trait.defName)}
+                        <br>From ${this.escapeHtml(trait.modSource)}
+                        ${trait.bypassLimit ? '<br><span class="usage">Bypasses Limit</span>' : ''}
+                    </span>
+                </td>
+                <td class="no-wrap">
+                    ${trait.canAdd ? `<strong>${trait.addPrice}</strong>` : '<span class="metadata">Cannot Add</span>'}
+                </td>
+                <td class="no-wrap">
+                    ${trait.canRemove ? `<strong>${trait.removePrice}</strong>` : '<span class="metadata">Cannot Remove</span>'}
+                </td>
+                <td>
+                    <div class="trait-description">${this.escapeHtml(trait.description)}</div>
+                    ${this.renderTraitStats(trait)}
+                    ${this.renderTraitConflicts(trait)}
+                </td>
             </tr>
         `).join('');
     }
+    
+    renderTraitStats(trait) {
+        if (!trait.stats || trait.stats.length === 0) return '';
+        
+        return `
+            <div class="metadata">
+                <strong>Stats:</strong>
+                <ul style="margin: 5px 0; padding-left: 20px;">
+                    ${trait.stats.map(stat => `<li>${this.escapeHtml(stat)}</li>`).join('')}
+                </ul>
+            </div>
+        `;
+    }
+
+renderTraitConflicts(trait) {
+    if (!trait.conflicts || trait.conflicts.length === 0) return '';
+    
+    return `
+        <div class="metadata">
+            <strong>Conflicts with:</strong>
+            <ul style="margin: 5px 0; padding-left: 20px;">
+                ${trait.conflicts.map(conflict => `<li>${this.escapeHtml(conflict)}</li>`).join('')}
+            </ul>
+        </div>
+    `;
+}
 
     renderRaces() {
         const tbody = document.getElementById('races-tbody');
