@@ -94,8 +94,19 @@
     "BaseCost": 600,
     "KarmaType": "Doom",
     "EventCap": 3,
-    "Enabled": false,
+    "Enabled": true,
     "ModSource": "Anomaly",
+    "Version": 1
+  },
+  "Windy": {
+    "DefName": "Windy",
+    "Label": "windy",
+    "Description": "Strong winds reduce movement speed.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Odyssey",
     "Version": 1
   },
   "ToxRain": {
@@ -164,26 +175,246 @@
     "ModSource": "Odyssey",
     "Version": 1
   },
-  "Windy": {
-    "DefName": "Windy",
-    "Label": "windy",
-    "Description": "A clear, windy day, great for turbines, not so great for shooting.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 175,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "Version": 1
-  },
-  "SnowyThunderStorm": {
-    "DefName": "SnowyThunderStorm",
-    "Label": "thundersnow",
-    "Description": "A rare winter phenomenon where heavy snow falls with lightning and thunder. The snow reduces visibility and movement while lightning poses fire risks.\n\n<i><color=#66E0E4FF>(CAP) Thunder Snow</color></i>",
+  "VPE_Hurricane": {
+    "DefName": "VPE_Hurricane",
+    "Label": "hurricane",
+    "Description": "Extreme wind will cause a slowdown to everyone not under the roof.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i>",
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
     "Enabled": true,
-    "ModSource": "[CAP] Thunder Snow",
+    "ModSource": "Vanilla Psycasts Expanded",
+    "Version": 1
+  },
+  "AnomalyWeather": {
+    "DefName": "AnomalyWeather",
+    "Label": "darkness",
+    "Description": null,
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Anomaly Research Asteroid",
+    "Version": 1
+  },
+  "TM_HealingRainWD": {
+    "DefName": "TM_HealingRainWD",
+    "Label": "healing rain",
+    "Description": "A gentle rain with healing properties. Any creature exposed to healing rain will slowly regenerate their wounds.\n\n<i><color=#66E0E4FF>A RimWorld of Magic</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "A RimWorld of Magic",
+    "Version": 1
+  },
+  "TM_HailstormWD": {
+    "DefName": "TM_HailstormWD",
+    "Label": "hail storm",
+    "Description": "A fierce hailstorm that sheets swathes of land in deadly waves of ice. Movement and accuracy are severely hampered.\n\n<i><color=#66E0E4FF>A RimWorld of Magic</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "A RimWorld of Magic",
+    "Version": 1
+  },
+  "VPE_RadioactiveFog": {
+    "DefName": "VPE_RadioactiveFog",
+    "Label": "radioactive fog",
+    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.\n\n<i><color=#66E0E4FF>Vanilla Furniture Expanded - Power</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Furniture Expanded - Power",
+    "Version": 1
+  },
+  "DeltaStreamSTNL": {
+    "DefName": "DeltaStreamSTNL",
+    "Label": "Delta Stream",
+    "Description": "A large tornado in the sky, strong enough to overpower other weather conditions, wind speed is increased massively.\n\n<i><color=#66E0E4FF>VPE - Aeromancer</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "VPE - Aeromancer",
+    "Version": 1
+  },
+  "TorrentialRainSTNL": {
+    "DefName": "TorrentialRainSTNL",
+    "Label": "torrential rain",
+    "Description": "Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.\n\n<i><color=#66E0E4FF>VPE - Hydromancer</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "VPE - Hydromancer",
+    "Version": 1
+  },
+  "VCE_FestiveSnow": {
+    "DefName": "VCE_FestiveSnow",
+    "Label": "festive snow",
+    "Description": "Festive snow lifts the spirits of everyone around. Like regular snow, it reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.\n\n<i><color=#66E0E4FF>Vanilla Christmas Expanded</color></i>",
+    "BaseCost": 200,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Christmas Expanded",
+    "Version": 1
+  },
+  "VPEH_Bloodstorm": {
+    "DefName": "VPEH_Bloodstorm",
+    "Label": "bloodstorm",
+    "Description": "Mystical downpour of blood, caused by forbidden hemosage psycast. While non-hemogenic individuals are choking on blood, sanguophages regenerate hemogen and can cast psycasts without worrying about psychic heat.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded - Hemosage</color></i>",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Psycasts Expanded - Hemosage",
+    "Version": 1
+  },
+  "VREA_PsychicStorm": {
+    "DefName": "VREA_PsychicStorm",
+    "Label": "psychic storm",
+    "Description": "Psychic storm is a supernatural phenomena that occurs during the periods of increased psychic activity.\n\n<i><color=#66E0E4FF>Vanilla Races Expanded - Archon</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Races Expanded - Archon",
+    "Version": 1
+  },
+  "AB_RedFog": {
+    "DefName": "AB_RedFog",
+    "Label": "red fog",
+    "Description": "Red fog reduces the accuracy of ranged weapons.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "AB_VolcanicAsh": {
+    "DefName": "AB_VolcanicAsh",
+    "Label": "volcanic ash",
+    "Description": "A mixture of rock, mineral, and glass particles expelled from a volcano during a volcanic eruption. This creates a thick atmospheric layer that reduces ranged accuracy.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "AB_VolcanicAshRain": {
+    "DefName": "AB_VolcanicAshRain",
+    "Label": "volcanic ash with rain",
+    "Description": "A mixture of rock, mineral, and glass particles expelled from a volcano during a volcanic eruption, precipitating with rain. This creates a thick atmospheric layer that reduces ranged accuracy.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "AB_ForsakenNight": {
+    "DefName": "AB_ForsakenNight",
+    "Label": "forsaken fog",
+    "Description": "A preternatural darkness that seeps into your very soul. Even during the \"day\" brightness will be very low, so lighting is going to be absolutely essential. Nights are going to be REALLY dark.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "AB_ForsakenRainyNight": {
+    "DefName": "AB_ForsakenRainyNight",
+    "Label": "forsaken rain",
+    "Description": "A preternatural darkness that seeps into your very soul. A freezing rain of supercooled water has started to drop from the darkened sky.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "AB_ForsakenThunderstorm": {
+    "DefName": "AB_ForsakenThunderstorm",
+    "Label": "forsaken thunderstorm",
+    "Description": "A preternatural darkness that seeps into your very soul. Now with a dry thunderstorm! Isn't it great?\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "AB_AcidRainWeather": {
+    "DefName": "AB_AcidRainWeather",
+    "Label": "acid rain",
+    "Description": "Toxic gas emissions from nearby volcanically active calderas are precipitating in the form of dangerous acid rain. Acid rain has an adverse impact on flora and fauna, killing insect and aquatic life-forms as well as having impacts on human health. Acid rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "AB_PetalStorms": {
+    "DefName": "AB_PetalStorms",
+    "Label": "petal storm",
+    "Description": "A flurry of flower petals that improves mood but reduces visibility.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "AB_ForsakenNight_Alternate": {
+    "DefName": "AB_ForsakenNight_Alternate",
+    "Label": "forsaken fog",
+    "Description": "A preternatural darkness that seeps into your very soul. Even during the \"day\" brightness will be very low, so lighting is going to be absolutely essential. Nights are going to be REALLY dark.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "AB_ForsakenRainyNight_Alternate": {
+    "DefName": "AB_ForsakenRainyNight_Alternate",
+    "Label": "forsaken rain",
+    "Description": "A preternatural darkness that seeps into your very soul. A freezing rain of supercooled water has started to drop from the darkened sky.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "AB_ForsakenThunderstorm_Alternate": {
+    "DefName": "AB_ForsakenThunderstorm_Alternate",
+    "Label": "forsaken thunderstorm",
+    "Description": "A preternatural darkness that seeps into your very soul. Now with a dry thunderstorm! Isn't it great?\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Alpha Biomes",
+    "Version": 1
+  },
+  "STORMYASHRAIN": {
+    "DefName": "STORMYASHRAIN",
+    "Label": "Stormy Ash Rain",
+    "Description": "Stormy Ash Rain",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "RimWorld",
     "Version": 1
   }
 }
