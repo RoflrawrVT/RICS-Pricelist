@@ -5603,7 +5603,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_CentipedeGunner": {
       "DefName": "Mech_CentipedeGunner",
@@ -5622,7 +5622,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_CentipedeBurner": {
       "DefName": "Mech_CentipedeBurner",
@@ -5641,7 +5641,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Lancer": {
       "DefName": "Mech_Lancer",
@@ -5660,7 +5660,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Scyther": {
       "DefName": "Mech_Scyther",
@@ -5679,7 +5679,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Pikeman": {
       "DefName": "Mech_Pikeman",
@@ -5698,7 +5698,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Termite": {
       "DefName": "Mech_Termite",
@@ -5717,7 +5717,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Thrumbo": {
       "DefName": "Thrumbo",
@@ -10828,7 +10828,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Militor": {
       "DefName": "Mech_Militor",
@@ -10847,7 +10847,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Lifter": {
       "DefName": "Mech_Lifter",
@@ -10866,7 +10866,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Constructoid": {
       "DefName": "Mech_Constructoid",
@@ -10885,7 +10885,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Fabricor": {
       "DefName": "Mech_Fabricor",
@@ -10904,7 +10904,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Agrihand": {
       "DefName": "Mech_Agrihand",
@@ -10923,7 +10923,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Cleansweeper": {
       "DefName": "Mech_Cleansweeper",
@@ -10942,7 +10942,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_WarUrchin": {
       "DefName": "Mech_WarUrchin",
@@ -10961,7 +10961,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Paramedic": {
       "DefName": "Mech_Paramedic",
@@ -10980,7 +10980,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Legionary": {
       "DefName": "Mech_Legionary",
@@ -10999,7 +10999,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Tesseron": {
       "DefName": "Mech_Tesseron",
@@ -11018,7 +11018,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Scorcher": {
       "DefName": "Mech_Scorcher",
@@ -11037,7 +11037,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Apocriton": {
       "DefName": "Mech_Apocriton",
@@ -11056,7 +11056,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Centurion": {
       "DefName": "Mech_Centurion",
@@ -11075,7 +11075,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Warqueen": {
       "DefName": "Mech_Warqueen",
@@ -11094,7 +11094,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Diabolus": {
       "DefName": "Mech_Diabolus",
@@ -11113,7 +11113,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Gun_HellsphereCannon": {
       "DefName": "Gun_HellsphereCannon",
@@ -15046,7 +15046,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "BogHound": {
       "DefName": "BogHound",
@@ -16433,7 +16433,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Bellicor": {
       "DefName": "AM_Mech_Bellicor",
@@ -16452,7 +16452,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Artilleron": {
       "DefName": "AM_Mech_Artilleron",
@@ -16471,7 +16471,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Blitzkrieg": {
       "DefName": "AM_Blitzkrieg",
@@ -16490,7 +16490,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Guttersnipe": {
       "DefName": "AM_Mech_Guttersnipe",
@@ -16509,7 +16509,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Infernus": {
       "DefName": "AM_Infernus",
@@ -16528,7 +16528,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Legate": {
       "DefName": "AM_Mech_Legate",
@@ -16547,7 +16547,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Lux": {
       "DefName": "AM_Mech_Lux",
@@ -16566,7 +16566,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_MasterChef": {
       "DefName": "AM_Mech_MasterChef",
@@ -16585,7 +16585,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Munifex": {
       "DefName": "AM_Mech_Munifex",
@@ -16604,7 +16604,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Optio": {
       "DefName": "AM_Mech_Optio",
@@ -16623,7 +16623,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Polychoron": {
       "DefName": "AM_Mech_Polychoron",
@@ -16642,7 +16642,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_PristineAssembler": {
       "DefName": "AM_Mech_PristineAssembler",
@@ -16661,7 +16661,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_PristineSlurrypede": {
       "DefName": "AM_Mech_PristineSlurrypede",
@@ -16680,7 +16680,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_PristineStrider": {
       "DefName": "AM_PristineStrider",
@@ -16699,7 +16699,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Sagittarius": {
       "DefName": "AM_Mech_Sagittarius",
@@ -16718,7 +16718,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Siegemelter": {
       "DefName": "AM_Siegemelter",
@@ -16737,7 +16737,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Starfire": {
       "DefName": "AM_Starfire",
@@ -16756,7 +16756,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_TurboCleaner": {
       "DefName": "AM_Mech_TurboCleaner",
@@ -16775,7 +16775,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_WarEmpress": {
       "DefName": "AM_WarEmpress",
@@ -16794,7 +16794,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Gun_HellsphereOrbital": {
       "DefName": "AM_Gun_HellsphereOrbital",
@@ -17060,7 +17060,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Daggersnout": {
       "DefName": "AM_Daggersnout",
@@ -17079,7 +17079,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Fireworm": {
       "DefName": "AM_Fireworm",
@@ -17098,7 +17098,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Goliath": {
       "DefName": "AM_Goliath",
@@ -17117,7 +17117,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Phalanx": {
       "DefName": "AM_Phalanx",
@@ -17136,7 +17136,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Demolisher": {
       "DefName": "AM_Demolisher",
@@ -17155,7 +17155,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Siegebreaker": {
       "DefName": "AM_Siegebreaker",
@@ -17174,7 +17174,7 @@
       "Mod": "Alpha Mechs",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Flamethrower": {
       "DefName": "AM_Flamethrower",
@@ -20347,7 +20347,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_WarSweeper": {
       "DefName": "Cinder_Mech_WarSweeper",
@@ -20366,7 +20366,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Trailer": {
       "DefName": "Cinder_Trailer",
@@ -20404,7 +20404,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_Tombstone": {
       "DefName": "Cinder_Mech_Tombstone",
@@ -20423,7 +20423,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_MiniTurretWalker": {
       "DefName": "Cinder_Mech_MiniTurretWalker",
@@ -20442,7 +20442,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 500,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_WalkerAutoCannon": {
       "DefName": "Cinder_Mech_WalkerAutoCannon",
@@ -20461,7 +20461,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 500,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_WalkerRocket": {
       "DefName": "Cinder_Mech_WalkerRocket",
@@ -20480,7 +20480,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 500,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_WalkerSniper": {
       "DefName": "Cinder_Mech_WalkerSniper",
@@ -20499,7 +20499,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 500,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "PowerArm": {
       "DefName": "PowerArm",
@@ -24907,7 +24907,7 @@
       "Mod": "Vanilla Weapons Expanded - Laser",
       "BasePrice": 1,
       "Category": "Unfinished",
-      "Enabled": true
+      "Enabled": false
     },
     "VWEL_LaserSword": {
       "DefName": "VWEL_LaserSword",
@@ -26712,7 +26712,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 1,
       "Category": "Eggs (fert.)",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_ButterflyEggUnfertilized": {
       "DefName": "AA_ButterflyEggUnfertilized",
@@ -27852,7 +27852,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 15,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_AngelMoth": {
       "DefName": "AA_AngelMoth",
@@ -27871,7 +27871,7 @@
       "Mod": "Alpha Animals",
       "BasePrice": 450,
       "Category": "Animals",
-      "Enabled": true
+      "Enabled": false
     },
     "AA_AnimaColossus": {
       "DefName": "AA_AnimaColossus",
@@ -37371,7 +37371,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 325,
       "Category": "Car parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_CarAlternator": {
       "DefName": "VVE_CarAlternator",
@@ -37390,7 +37390,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 95,
       "Category": "Car parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_CarExhaust": {
       "DefName": "VVE_CarExhaust",
@@ -37409,7 +37409,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 80,
       "Category": "Car parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_CarSuspension": {
       "DefName": "VVE_CarSuspension",
@@ -37428,7 +37428,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 90,
       "Category": "Car parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_CarWheel": {
       "DefName": "VVE_CarWheel",
@@ -37447,7 +37447,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 70,
       "Category": "Car parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_CarBattery": {
       "DefName": "VVE_CarBattery",
@@ -37466,7 +37466,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 120,
       "Category": "Car parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_CarFuelTank": {
       "DefName": "VVE_CarFuelTank",
@@ -37485,7 +37485,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 95,
       "Category": "Car parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_CarTransmission": {
       "DefName": "VVE_CarTransmission",
@@ -37504,7 +37504,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 170,
       "Category": "Car parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_CarRadiator": {
       "DefName": "VVE_CarRadiator",
@@ -37523,7 +37523,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 90,
       "Category": "Car parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_CarWiring": {
       "DefName": "VVE_CarWiring",
@@ -37542,7 +37542,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 125,
       "Category": "Car parts",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_BangBus": {
       "DefName": "VVE_BangBus",
@@ -37561,7 +37561,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1615,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Bunsen": {
       "DefName": "VVE_Bunsen",
@@ -37599,7 +37599,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 530,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Dirtbike": {
       "DefName": "VVE_Dirtbike",
@@ -37618,7 +37618,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 875,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Frog": {
       "DefName": "VVE_Frog",
@@ -37637,7 +37637,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1535,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Highwayman": {
       "DefName": "VVE_Highwayman",
@@ -37656,7 +37656,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2240,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Mule": {
       "DefName": "VVE_Mule",
@@ -37675,7 +37675,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2050,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Prowler": {
       "DefName": "VVE_Prowler",
@@ -37694,7 +37694,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1490,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Roadkill": {
       "DefName": "VVE_Roadkill",
@@ -37732,7 +37732,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2025,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Toad": {
       "DefName": "VVE_Toad",
@@ -37751,7 +37751,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2400,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Traveller": {
       "DefName": "VVE_Traveller",
@@ -37770,7 +37770,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1650,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Bulldog": {
       "DefName": "VVE_Bulldog",
@@ -37808,7 +37808,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1485,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Mosquito": {
       "DefName": "VVE_Mosquito",
@@ -37884,7 +37884,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2550,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Tango": {
       "DefName": "VVE_Tango",
@@ -37922,7 +37922,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1900,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Wagon": {
       "DefName": "VVE_Wagon",
@@ -37941,7 +37941,7 @@
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2400,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Warbird": {
       "DefName": "VVE_Warbird",
@@ -43527,7 +43527,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Dreadheart": {
       "DefName": "Dreadheart",
@@ -56979,7 +56979,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Psiloid": {
       "DefName": "Mech_Psiloid",
@@ -56998,7 +56998,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Bombito": {
       "DefName": "Mech_Bombito",
@@ -57017,7 +57017,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Tagmaton": {
       "DefName": "Mech_Tagmaton",
@@ -57036,7 +57036,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Skutaton": {
       "DefName": "Mech_Skutaton",
@@ -57055,7 +57055,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Omniservant": {
       "DefName": "Mech_Omniservant",
@@ -57074,7 +57074,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "MeleeWeapon_StunProd": {
       "DefName": "MeleeWeapon_StunProd",
@@ -75732,7 +75732,7 @@
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 12625,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Goliath": {
       "DefName": "VVE_Goliath",
@@ -75751,7 +75751,7 @@
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 2400,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VVE_Hermano": {
       "DefName": "VVE_Hermano",
@@ -89469,7 +89469,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1400,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_CivilA": {
       "DefName": "Wolfein_Mechanoid_CivilA",
@@ -89488,7 +89488,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1400,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_CivilB": {
       "DefName": "Wolfein_Mechanoid_CivilB",
@@ -89507,7 +89507,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1400,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_CivilC": {
       "DefName": "Wolfein_Mechanoid_CivilC",
@@ -89526,7 +89526,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1400,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_Drone": {
       "DefName": "Wolfein_Mechanoid_Drone",
@@ -89545,7 +89545,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1000,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_DroneArmed": {
       "DefName": "Wolfein_Mechanoid_DroneArmed",
@@ -89564,7 +89564,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1250,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryA": {
       "DefName": "Wolfein_Mechanoid_MilitaryA",
@@ -89583,7 +89583,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryB": {
       "DefName": "Wolfein_Mechanoid_MilitaryB",
@@ -89602,7 +89602,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryC": {
       "DefName": "Wolfein_Mechanoid_MilitaryC",
@@ -89621,7 +89621,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryD": {
       "DefName": "Wolfein_Mechanoid_MilitaryD",
@@ -89640,7 +89640,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryE": {
       "DefName": "Wolfein_Mechanoid_MilitaryE",
@@ -89659,7 +89659,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryF": {
       "DefName": "Wolfein_Mechanoid_MilitaryF",
@@ -89678,7 +89678,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryGiant": {
       "DefName": "Wolfein_Mechanoid_MilitaryGiant",
@@ -89697,7 +89697,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_RebelA": {
       "DefName": "Wolfein_Mechanoid_RebelA",
@@ -89716,7 +89716,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_RebelB": {
       "DefName": "Wolfein_Mechanoid_RebelB",
@@ -89735,7 +89735,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "W_Weapon_Drone": {
       "DefName": "W_Weapon_Drone",
@@ -91768,7 +91768,7 @@
       "Mod": "Vanilla Races Expanded - Android",
       "BasePrice": 2000,
       "Category": "Unfinished",
-      "Enabled": true
+      "Enabled": false
     },
     "VREA_NeuroPump": {
       "DefName": "VREA_NeuroPump",
@@ -93421,7 +93421,7 @@
       "Mod": "RimWorld",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Apparel_ArmorHelmetMechlordHelmet_Prestige": {
       "DefName": "AM_Apparel_ArmorHelmetMechlordHelmet_Prestige",
@@ -93573,7 +93573,7 @@
       "Mod": "RimWorld",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Librarian": {
       "DefName": "AM_Mech_Librarian",
@@ -93592,7 +93592,7 @@
       "Mod": "RimWorld",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "AM_Mech_Geneticor": {
       "DefName": "AM_Mech_Geneticor",
@@ -93611,7 +93611,7 @@
       "Mod": "RimWorld",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "HALO_UNSC_SpartanLaser": {
       "DefName": "HALO_UNSC_SpartanLaser",

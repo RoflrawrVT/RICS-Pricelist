@@ -2,10 +2,10 @@
   "Human": {
     "DisplayName": "human",
     "Enabled": true,
-    "BasePrice": 1750,
-    "MinAge": 16,
+    "BasePrice": 1000,
+    "MinAge": 13,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "AllowedGenders": {
       "AllowMale": true,
@@ -1555,7 +1555,7 @@
   },
   "TM_SpiritTD": {
     "DisplayName": "spirit",
-    "Enabled": true,
+    "Enabled": false,
     "BasePrice": 1500,
     "MinAge": 16,
     "MaxAge": 65,

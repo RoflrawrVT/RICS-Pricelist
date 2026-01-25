@@ -1,13 +1,29 @@
 {
-  "total": 1,
+  "total": 3,
   "viewers": [
     {
       "username": "roflrawrvt",
-      "karma": 100,
-      "coins": 99,
+      "karma": 52,
+      "coins": 5768,
       "isBanned": false,
       "platformIds": {
         "twitch": "254954818"
+      }
+    },
+    {
+      "username": "twitch:254954818",
+      "karma": 100,
+      "coins": 560,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "dreamfinder11",
+      "karma": 100,
+      "coins": 1276,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "72245813"
       }
     }
   ]
