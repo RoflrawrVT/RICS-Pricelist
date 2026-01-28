@@ -1,10 +1,10 @@
 {
-  "total": 3,
+  "total": 4,
   "viewers": [
     {
       "username": "roflrawrvt",
-      "karma": 52,
-      "coins": 5768,
+      "karma": 72,
+      "coins": 3899,
       "isBanned": false,
       "platformIds": {
         "twitch": "254954818"
@@ -13,17 +13,26 @@
     {
       "username": "twitch:254954818",
       "karma": 100,
-      "coins": 560,
+      "coins": 749,
       "isBanned": false,
       "platformIds": {}
     },
     {
       "username": "dreamfinder11",
       "karma": 100,
-      "coins": 1276,
+      "coins": 1479,
       "isBanned": false,
       "platformIds": {
         "twitch": "72245813"
+      }
+    },
+    {
+      "username": "olaandse",
+      "karma": 100,
+      "coins": 247,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1433128774"
       }
     }
   ]
