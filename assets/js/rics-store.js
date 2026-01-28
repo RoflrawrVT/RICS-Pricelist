@@ -196,66 +196,66 @@ class RICSStore {
             .replace(/\[PAWN_def\]/g, 'Timmy');
     }
 
-    processRacesData(racesObject) {
-        return Object.entries(racesObject)
-            .map(([raceKey, raceData]) => {
-                const baseRace = {
-                    defName: raceKey,
-                    name: raceData.DisplayName || raceKey,
-                    basePrice: raceData.BasePrice || 0,
-                    minAge: raceData.MinAge || 0,
-                    maxAge: raceData.MaxAge || 0,
-                    allowCustomXenotypes: raceData.AllowCustomXenotypes || false,
-                    defaultXenotype: raceData.DefaultXenotype || 'None',
-                    enabled: raceData.Enabled !== false,
-                    allowedGenders: raceData.AllowedGenders || {},
-                    xenotypePrices: raceData.XenotypePrices || {},
-                    enabledXenotypes: raceData.EnabledXenotypes || {}
-                };
+processRacesData(racesObject) {
+    return Object.entries(racesObject)
+        .map(([raceKey, raceData]) => {
+            const baseRace = {
+                defName: raceKey,
+                name: raceData.DisplayName || raceKey,
+                basePrice: raceData.BasePrice || 0,
+                minAge: raceData.MinAge || 0,
+                maxAge: raceData.MaxAge || 0,
+                allowCustomXenotypes: raceData.AllowCustomXenotypes || false,
+                defaultXenotype: raceData.DefaultXenotype || 'None',
+                enabled: raceData.Enabled !== false,
+                allowedGenders: raceData.AllowedGenders || {},
+                xenotypePrices: raceData.XenotypePrices || {},
+                enabledXenotypes: raceData.EnabledXenotypes || {}
+            };
 
-                // Create entries for each enabled xenotype
-                const xenotypeEntries = [];
-                if (baseRace.enabledXenotypes) {
-                    Object.entries(baseRace.enabledXenotypes).forEach(([xenotype, isEnabled]) => {
-                        if (isEnabled && baseRace.xenotypePrices[xenotype]) {
-                            const xenotypePrice = baseRace.basePrice * baseRace.xenotypePrices[xenotype];
-                            xenotypeEntries.push({
-                                defName: `${raceKey}_${xenotype}`,
-                                name: `${baseRace.name} ${xenotype}`, // Changed from "Human (Baseliner)" to "Human Baseliner"
-                                basePrice: Math.round(xenotypePrice),
-                                isXenotype: true,
-                                parentRace: baseRace.name,
-                                xenotype: xenotype,
-                                priceMultiplier: baseRace.xenotypePrices[xenotype],
-                                minAge: baseRace.minAge,
-                                maxAge: baseRace.maxAge,
-                                enabled: true,
-                                allowedGenders: baseRace.allowedGenders // Pass along gender info
-                            });
-                        }
-                    });
-                }
+            // Create entries for each enabled xenotype
+            const xenotypeEntries = [];
+            if (baseRace.enabledXenotypes) {
+                Object.entries(baseRace.enabledXenotypes).forEach(([xenotype, isEnabled]) => {
+                    if (isEnabled && baseRace.xenotypePrices[xenotype]) {
+                        const xenotypePrice = baseRace.xenotypePrices[xenotype]; // Direct price
+                        xenotypeEntries.push({
+                            defName: `${raceKey}_${xenotype}`,
+                            name: `${baseRace.name} ${xenotype}`,
+                            basePrice: xenotypePrice, // Use direct price
+                            isXenotype: true,
+                            parentRace: baseRace.name,
+                            xenotype: xenotype,
+                            xenotypePrice: xenotypePrice, // Store for reference
+                            minAge: baseRace.minAge,
+                            maxAge: baseRace.maxAge,
+                            enabled: true,
+                            allowedGenders: baseRace.allowedGenders
+                        });
+                    }
+                });
+            }
 
-                // Return both the base race and its xenotypes
-                const baseRaceEntry = {
-                    defName: raceKey,
-                    name: baseRace.name,
-                    basePrice: baseRace.basePrice,
-                    isXenotype: false,
-                    minAge: baseRace.minAge,
-                    maxAge: baseRace.maxAge,
-                    allowCustomXenotypes: baseRace.allowCustomXenotypes,
-                    defaultXenotype: baseRace.defaultXenotype,
-                    enabled: baseRace.enabled,
-                    xenotypeCount: xenotypeEntries.length,
-                    allowedGenders: baseRace.allowedGenders
-                };
+            // Return both the base race and its xenotypes
+            const baseRaceEntry = {
+                defName: raceKey,
+                name: baseRace.name,
+                basePrice: baseRace.basePrice,
+                isXenotype: false,
+                minAge: baseRace.minAge,
+                maxAge: baseRace.maxAge,
+                allowCustomXenotypes: baseRace.allowCustomXenotypes,
+                defaultXenotype: baseRace.defaultXenotype,
+                enabled: baseRace.enabled,
+                xenotypeCount: xenotypeEntries.length,
+                allowedGenders: baseRace.allowedGenders
+            };
 
-                return [baseRaceEntry, ...xenotypeEntries];
-            })
-            .flat() // Flatten the array of arrays
-            .filter(race => race.enabled && race.basePrice > 0);
-    }
+            return [baseRaceEntry, ...xenotypeEntries];
+        })
+        .flat() // Flatten the array of arrays
+        .filter(race => race.enabled && race.basePrice > 0);
+}
 
     renderAllTabs() {
         this.renderItems();
@@ -415,12 +415,12 @@ class RICSStore {
     renderRaces() {
         const tbody = document.getElementById('races-tbody');
         const races = this.filteredData.races;
-
+    
         if (races.length === 0) {
             tbody.innerHTML = '<tr><td colspan="5" style="text-align: center; padding: 40px;">No races found</td></tr>';
             return;
         }
-
+    
         tbody.innerHTML = races.map(race => `
         <tr>
             <td>
@@ -433,7 +433,7 @@ class RICSStore {
             </td>
             <td class="no-wrap">
                 <strong>${race.basePrice}</strong>
-                ${race.isXenotype ? `<span class="metadata">${(race.priceMultiplier * 100).toFixed(0)}% of base</span>` : ''}
+                ${race.isXenotype ? `<span class="metadata">Direct price</span>` : ''}
             </td>
             <td class="no-wrap">
                 Age: ${race.minAge}-${race.maxAge}
