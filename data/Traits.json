@@ -4930,23 +4930,5 @@
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
     "Version": 1
-  },
-  "VFEP_WarcasketTrait_Mech_0": {
-    "DefName": "VFEP_WarcasketTrait_Mech",
-    "Name": "Mech warcasket",
-    "Degree": 0,
-    "Description": "{PAWN_nameDef} is entombed in a mech master warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. {PAWN_nameDef} will be unable to do most tasks, except those necessary to maintain and build mechanoids.",
-    "Stats": [],
-    "Conflicts": [],
-    "CanAdd": true,
-    "CanRemove": true,
-    "AddPrice": 150,
-    "RemovePrice": 250,
-    "BypassLimit": false,
-    "CustomName": false,
-    "KarmaTypeForAdding": null,
-    "KarmaTypeForRemoving": null,
-    "ModSource": "RimWorld",
-    "Version": 1
   }
 }

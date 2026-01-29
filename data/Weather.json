@@ -175,17 +175,6 @@
     "ModSource": "Odyssey",
     "Version": 1
   },
-  "VPE_Hurricane": {
-    "DefName": "VPE_Hurricane",
-    "Label": "hurricane",
-    "Description": "Extreme wind will cause a slowdown to everyone not under the roof.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i>",
-    "BaseCost": 300,
-    "KarmaType": "Bad",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Vanilla Psycasts Expanded",
-    "Version": 1
-  },
   "AnomalyWeather": {
     "DefName": "AnomalyWeather",
     "Label": "darkness",
@@ -195,6 +184,17 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Anomaly Research Asteroid",
+    "Version": 1
+  },
+  "VPE_Hurricane": {
+    "DefName": "VPE_Hurricane",
+    "Label": "hurricane",
+    "Description": "Extreme wind will cause a slowdown to everyone not under the roof.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Psycasts Expanded",
     "Version": 1
   },
   "AB_RedFog": {

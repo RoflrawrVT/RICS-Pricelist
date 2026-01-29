@@ -15276,291 +15276,6 @@
       "Category": "Weapon",
       "Enabled": true
     },
-    "AM_GreaterMechBooster": {
-      "DefName": "AM_GreaterMechBooster",
-      "CustomName": "Persistent mech booster",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 345,
-      "Category": "Misc",
-      "Enabled": true
-    },
-    "AM_MechEfficiencyBooster": {
-      "DefName": "AM_MechEfficiencyBooster",
-      "CustomName": "Mech efficiency booster",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 345,
-      "Category": "Misc",
-      "Enabled": true
-    },
-    "AM_MechArmorBooster": {
-      "DefName": "AM_MechArmorBooster",
-      "CustomName": "Mech protection booster",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 345,
-      "Category": "Misc",
-      "Enabled": true
-    },
-    "AM_MechTargettingBooster": {
-      "DefName": "AM_MechTargettingBooster",
-      "CustomName": "Mech targeting booster",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 345,
-      "Category": "Misc",
-      "Enabled": true
-    },
-    "AM_MechDisruptor": {
-      "DefName": "AM_MechDisruptor",
-      "CustomName": "Mech disruptor",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 345,
-      "Category": "Misc",
-      "Enabled": true
-    },
-    "AM_HyperLinkageChip": {
-      "DefName": "AM_HyperLinkageChip",
-      "CustomName": "Hyper-linkage chip (tier 4)",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 10,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1750,
-      "Category": "Manufactured",
-      "Enabled": true
-    },
-    "AM_StellarProcessingChip": {
-      "DefName": "AM_StellarProcessingChip",
-      "CustomName": "Stellar processing chip (tier 5)",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 10,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 2000,
-      "Category": "Manufactured",
-      "Enabled": true
-    },
-    "AM_QuantumMatrixChip": {
-      "DefName": "AM_QuantumMatrixChip",
-      "CustomName": "Quantum matrix chip (tier 6)",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 10,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 2200,
-      "Category": "Manufactured",
-      "Enabled": true
-    },
-    "AM_MechCommanderHelm": {
-      "DefName": "AM_MechCommanderHelm",
-      "CustomName": "Mech master helmet",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": true,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 5430,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_MechBreakerHelm": {
-      "DefName": "AM_MechBreakerHelm",
-      "CustomName": "Mech breaker helmet",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": true,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 4515,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_BeamcasterPack": {
-      "DefName": "AM_BeamcasterPack",
-      "CustomName": "Beamcaster pack",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": true,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 3815,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_VoidlinkPack": {
-      "DefName": "AM_VoidlinkPack",
-      "CustomName": "Voidlink pack",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": true,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 4550,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_CryptoPack": {
-      "DefName": "AM_CryptoPack",
-      "CustomName": "Mech crypto-pack",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": true,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 6985,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_MechCommanderSuit": {
-      "DefName": "AM_MechCommanderSuit",
-      "CustomName": "Mech master suit",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": true,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 7825,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_MechBreakerArmor": {
-      "DefName": "AM_MechBreakerArmor",
-      "CustomName": "Mech breaker armor",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": true,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 10000,
-      "Category": "Apparel",
-      "Enabled": true
-    },
     "BreadMoAM_AncientAutomaticDrillingRig": {
       "DefName": "BreadMoAM_AncientAutomaticDrillingRig",
       "CustomName": "Ancient Automatic Drilling Rig",
@@ -76380,120 +76095,6 @@
       "Category": "Fish",
       "Enabled": true
     },
-    "AM_Apparel_ArmorHelmetMechlordHelmet_Prestige": {
-      "DefName": "AM_Apparel_ArmorHelmetMechlordHelmet_Prestige",
-      "CustomName": "Prestige mechlord helmet",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": true,
-      "Mod": "RimWorld",
-      "BasePrice": 5790,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_MechCommanderHelm_Prestige": {
-      "DefName": "AM_MechCommanderHelm_Prestige",
-      "CustomName": "Prestige mech master helmet",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": true,
-      "Mod": "RimWorld",
-      "BasePrice": 5915,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_PrestigeMechBreakerHelm": {
-      "DefName": "AM_PrestigeMechBreakerHelm",
-      "CustomName": "Prestige mech breaker helmet",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": true,
-      "Mod": "RimWorld",
-      "BasePrice": 5040,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_Apparel_MechlordSuit_Prestige": {
-      "DefName": "AM_Apparel_MechlordSuit_Prestige",
-      "CustomName": "Prestige mechlord suit",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": true,
-      "Mod": "RimWorld",
-      "BasePrice": 7680,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_PrestigeMechCommanderSuit": {
-      "DefName": "AM_PrestigeMechCommanderSuit",
-      "CustomName": "Prestige mech master suit",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": true,
-      "Mod": "RimWorld",
-      "BasePrice": 8490,
-      "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_PrestigeMechBreakerArmor": {
-      "DefName": "AM_PrestigeMechBreakerArmor",
-      "CustomName": "Prestige mech breaker armor",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": true,
-      "Mod": "RimWorld",
-      "BasePrice": 10775,
-      "Category": "Apparel",
-      "Enabled": true
-    },
     "HALO_UNSC_SpartanLaser": {
       "DefName": "HALO_UNSC_SpartanLaser",
       "CustomName": "Spartan Laser",
@@ -130357,7 +129958,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_CentipedeGunner": {
       "DefName": "Mech_CentipedeGunner",
@@ -130376,7 +129977,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_CentipedeBurner": {
       "DefName": "Mech_CentipedeBurner",
@@ -130395,7 +129996,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Lancer": {
       "DefName": "Mech_Lancer",
@@ -130414,7 +130015,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Scyther": {
       "DefName": "Mech_Scyther",
@@ -130433,7 +130034,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Pikeman": {
       "DefName": "Mech_Pikeman",
@@ -130452,7 +130053,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Termite": {
       "DefName": "Mech_Termite",
@@ -130471,7 +130072,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Gun_ChargeBlasterHeavy": {
       "DefName": "Gun_ChargeBlasterHeavy",
@@ -130585,7 +130186,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Militor": {
       "DefName": "Mech_Militor",
@@ -130604,7 +130205,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Lifter": {
       "DefName": "Mech_Lifter",
@@ -130623,7 +130224,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Constructoid": {
       "DefName": "Mech_Constructoid",
@@ -130642,7 +130243,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Fabricor": {
       "DefName": "Mech_Fabricor",
@@ -130661,7 +130262,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Agrihand": {
       "DefName": "Mech_Agrihand",
@@ -130680,7 +130281,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Cleansweeper": {
       "DefName": "Mech_Cleansweeper",
@@ -130699,7 +130300,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_WarUrchin": {
       "DefName": "Mech_WarUrchin",
@@ -130718,7 +130319,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Paramedic": {
       "DefName": "Mech_Paramedic",
@@ -130737,7 +130338,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Legionary": {
       "DefName": "Mech_Legionary",
@@ -130756,7 +130357,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Tesseron": {
       "DefName": "Mech_Tesseron",
@@ -130775,7 +130376,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Scorcher": {
       "DefName": "Mech_Scorcher",
@@ -130794,7 +130395,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Apocriton": {
       "DefName": "Mech_Apocriton",
@@ -130813,7 +130414,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Centurion": {
       "DefName": "Mech_Centurion",
@@ -130832,7 +130433,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Warqueen": {
       "DefName": "Mech_Warqueen",
@@ -130851,7 +130452,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Diabolus": {
       "DefName": "Mech_Diabolus",
@@ -130870,7 +130471,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Gun_HellsphereCannon": {
       "DefName": "Gun_HellsphereCannon",
@@ -131060,7 +130661,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Drone_Hunter": {
       "DefName": "Drone_Hunter",
@@ -131155,880 +130756,6 @@
       "Mod": "Vanilla Psycasts Expanded",
       "BasePrice": 60,
       "Category": "Apparel",
-      "Enabled": true
-    },
-    "AM_Apoptosis": {
-      "DefName": "AM_Apoptosis",
-      "CustomName": "Apoptosis",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1600,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Bellicor": {
-      "DefName": "AM_Mech_Bellicor",
-      "CustomName": "Bellicor",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1600,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Artilleron": {
-      "DefName": "AM_Mech_Artilleron",
-      "CustomName": "Artilleron",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1600,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Blitzkrieg": {
-      "DefName": "AM_Blitzkrieg",
-      "CustomName": "Blitzkrieg",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 800,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Guttersnipe": {
-      "DefName": "AM_Mech_Guttersnipe",
-      "CustomName": "Guttersnipe",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 800,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Infernus": {
-      "DefName": "AM_Infernus",
-      "CustomName": "Infernus",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1600,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Legate": {
-      "DefName": "AM_Mech_Legate",
-      "CustomName": "Legate",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1600,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Lux": {
-      "DefName": "AM_Mech_Lux",
-      "CustomName": "Lux",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_MasterChef": {
-      "DefName": "AM_Mech_MasterChef",
-      "CustomName": "Culinarius",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 800,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Munifex": {
-      "DefName": "AM_Mech_Munifex",
-      "CustomName": "Munifex",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Optio": {
-      "DefName": "AM_Mech_Optio",
-      "CustomName": "Optio",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1800,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Polychoron": {
-      "DefName": "AM_Mech_Polychoron",
-      "CustomName": "Polychoron",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_PristineAssembler": {
-      "DefName": "AM_Mech_PristineAssembler",
-      "CustomName": "Pristine assembler",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_PristineSlurrypede": {
-      "DefName": "AM_Mech_PristineSlurrypede",
-      "CustomName": "Pristine slurrypede",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_PristineStrider": {
-      "DefName": "AM_PristineStrider",
-      "CustomName": "Pristine strider",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Sagittarius": {
-      "DefName": "AM_Mech_Sagittarius",
-      "CustomName": "Sagittarius",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Siegemelter": {
-      "DefName": "AM_Siegemelter",
-      "CustomName": "Siegemelter",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Starfire": {
-      "DefName": "AM_Starfire",
-      "CustomName": "Starfire",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_TurboCleaner": {
-      "DefName": "AM_Mech_TurboCleaner",
-      "CustomName": "Turbocleaner",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 800,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_WarEmpress": {
-      "DefName": "AM_WarEmpress",
-      "CustomName": "War empress",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1600,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Gun_HellsphereOrbital": {
-      "DefName": "AM_Gun_HellsphereOrbital",
-      "CustomName": "Orbital strike targeter",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_Gun_CoilLance": {
-      "DefName": "AM_Gun_CoilLance",
-      "CustomName": "Coil lance",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 835,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_Gun_SuperHeavyChargeBlaster": {
-      "DefName": "AM_Gun_SuperHeavyChargeBlaster",
-      "CustomName": "Super heavy charge blaster",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_Gun_AcidSpewer": {
-      "DefName": "AM_Gun_AcidSpewer",
-      "CustomName": "Acid spewer",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_Gun_HeavyLaser": {
-      "DefName": "AM_Gun_HeavyLaser",
-      "CustomName": "Heavy laser",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1500,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_SiegemelterTurret": {
-      "DefName": "AM_SiegemelterTurret",
-      "CustomName": "Siegemelter flamethrower",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_TeslaGun": {
-      "DefName": "AM_TeslaGun",
-      "CustomName": "Chain tesla gun",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_StarfireTurret": {
-      "DefName": "AM_StarfireTurret",
-      "CustomName": "Starfire cannon",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_Gun_TacticalShotgun": {
-      "DefName": "AM_Gun_TacticalShotgun",
-      "CustomName": "Tactical shotgun",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1500,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_BeamGraserCannon": {
-      "DefName": "AM_BeamGraserCannon",
-      "CustomName": "Graser cannon",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 144,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_MechanoidGunRotaryNeedle": {
-      "DefName": "AM_MechanoidGunRotaryNeedle",
-      "CustomName": "Rotary needle launcher",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_Gun_MiniNeedle": {
-      "DefName": "AM_Gun_MiniNeedle",
-      "CustomName": "Mini needle gun",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_MechanoidMortar": {
-      "DefName": "AM_MechanoidMortar",
-      "CustomName": "Mortar",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_Aura": {
-      "DefName": "AM_Aura",
-      "CustomName": "Aura",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Daggersnout": {
-      "DefName": "AM_Daggersnout",
-      "CustomName": "Daggersnout",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Fireworm": {
-      "DefName": "AM_Fireworm",
-      "CustomName": "Fireworm",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Goliath": {
-      "DefName": "AM_Goliath",
-      "CustomName": "Goliath",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Phalanx": {
-      "DefName": "AM_Phalanx",
-      "CustomName": "Phalanx",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Demolisher": {
-      "DefName": "AM_Demolisher",
-      "CustomName": "Demolisher",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Siegebreaker": {
-      "DefName": "AM_Siegebreaker",
-      "CustomName": "Siegebreaker",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Flamethrower": {
-      "DefName": "AM_Flamethrower",
-      "CustomName": "Flamethrower",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_Gun_GoliathChargeBlaster": {
-      "DefName": "AM_Gun_GoliathChargeBlaster",
-      "CustomName": "Goliath charge blaster",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_Gun_GoliathNeedle": {
-      "DefName": "AM_Gun_GoliathNeedle",
-      "CustomName": "Goliath needle gun",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_CryogenicGun": {
-      "DefName": "AM_CryogenicGun",
-      "CustomName": "Cryogenic gun",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_SiegebreakerTurret": {
-      "DefName": "AM_SiegebreakerTurret",
-      "CustomName": "Siege turret",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_DemolisherChargeBase": {
-      "DefName": "AM_DemolisherChargeBase",
-      "CustomName": "Demolisher charges",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "Alpha Mechs",
-      "BasePrice": 1400,
-      "Category": "Weapon",
       "Enabled": true
     },
     "VFEE_Apparel_ArmorAbsolver": {
@@ -132200,7 +130927,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_WarSweeper": {
       "DefName": "Cinder_Mech_WarSweeper",
@@ -132219,7 +130946,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_Krepost": {
       "DefName": "Cinder_Mech_Krepost",
@@ -132238,7 +130965,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_Tombstone": {
       "DefName": "Cinder_Mech_Tombstone",
@@ -132257,7 +130984,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_MiniTurretWalker": {
       "DefName": "Cinder_Mech_MiniTurretWalker",
@@ -132276,7 +131003,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 500,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_WalkerAutoCannon": {
       "DefName": "Cinder_Mech_WalkerAutoCannon",
@@ -132295,7 +131022,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 500,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_WalkerRocket": {
       "DefName": "Cinder_Mech_WalkerRocket",
@@ -132314,7 +131041,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 500,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Cinder_Mech_WalkerSniper": {
       "DefName": "Cinder_Mech_WalkerSniper",
@@ -132333,7 +131060,7 @@
       "Mod": "Cinders of the Embergarden",
       "BasePrice": 500,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "VWE_Throwing_Rocks": {
       "DefName": "VWE_Throwing_Rocks",
@@ -132390,7 +131117,7 @@
       "Mod": "Vanilla Factions Expanded - Pirates",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "VFEP_Mech_Spidermine": {
       "DefName": "VFEP_Mech_Spidermine",
@@ -132409,7 +131136,7 @@
       "Mod": "Vanilla Factions Expanded - Pirates",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "VFEPGun_MiniBlaster": {
       "DefName": "VFEPGun_MiniBlaster",
@@ -134100,7 +132827,7 @@
       "Mod": "Integrated Implants",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Apparel_KidSliceCap": {
       "DefName": "Apparel_KidSliceCap",
@@ -134423,7 +133150,7 @@
       "Mod": "Rim cockroach",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Napalm": {
       "DefName": "Napalm",
@@ -134461,7 +133188,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Psiloid": {
       "DefName": "Mech_Psiloid",
@@ -134480,7 +133207,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Bombito": {
       "DefName": "Mech_Bombito",
@@ -134499,7 +133226,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Tagmaton": {
       "DefName": "Mech_Tagmaton",
@@ -134518,7 +133245,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Skutaton": {
       "DefName": "Mech_Skutaton",
@@ -134537,7 +133264,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Omniservant": {
       "DefName": "Mech_Omniservant",
@@ -134556,7 +133283,7 @@
       "Mod": "Rimsenal Faction Pack - Spacer",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "MeleeWeapon_StunProd": {
       "DefName": "MeleeWeapon_StunProd",
@@ -134917,7 +133644,7 @@
       "Mod": "Star Wars : The Force Standalone",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "VCE_UncookedStewSimple": {
       "DefName": "VCE_UncookedStewSimple",
@@ -135145,7 +133872,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "VGE_Astropede": {
       "DefName": "VGE_Astropede",
@@ -135164,7 +133891,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1350,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "VGE_Hunter": {
       "DefName": "VGE_Hunter",
@@ -135183,7 +133910,7 @@
       "Mod": "Vanilla Gravship Expanded - Chapter 1",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "VGE_MassLance": {
       "DefName": "VGE_MassLance",
@@ -137045,7 +135772,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1400,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_CivilA": {
       "DefName": "Wolfein_Mechanoid_CivilA",
@@ -137064,7 +135791,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1400,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_CivilB": {
       "DefName": "Wolfein_Mechanoid_CivilB",
@@ -137083,7 +135810,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1400,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_CivilC": {
       "DefName": "Wolfein_Mechanoid_CivilC",
@@ -137102,7 +135829,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1400,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_Drone": {
       "DefName": "Wolfein_Mechanoid_Drone",
@@ -137121,7 +135848,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1000,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_DroneArmed": {
       "DefName": "Wolfein_Mechanoid_DroneArmed",
@@ -137140,7 +135867,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 1250,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryA": {
       "DefName": "Wolfein_Mechanoid_MilitaryA",
@@ -137159,7 +135886,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryB": {
       "DefName": "Wolfein_Mechanoid_MilitaryB",
@@ -137178,7 +135905,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryC": {
       "DefName": "Wolfein_Mechanoid_MilitaryC",
@@ -137197,7 +135924,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryD": {
       "DefName": "Wolfein_Mechanoid_MilitaryD",
@@ -137216,7 +135943,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryE": {
       "DefName": "Wolfein_Mechanoid_MilitaryE",
@@ -137235,7 +135962,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryF": {
       "DefName": "Wolfein_Mechanoid_MilitaryF",
@@ -137254,7 +135981,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_MilitaryGiant": {
       "DefName": "Wolfein_Mechanoid_MilitaryGiant",
@@ -137273,7 +136000,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_RebelA": {
       "DefName": "Wolfein_Mechanoid_RebelA",
@@ -137292,7 +136019,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Wolfein_Mechanoid_RebelB": {
       "DefName": "Wolfein_Mechanoid_RebelB",
@@ -137311,7 +136038,7 @@
       "Mod": "Wolfein Race",
       "BasePrice": 2200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "W_Weapon_Drone": {
       "DefName": "W_Weapon_Drone",
@@ -137425,139 +136152,6 @@
       "Mod": "RimWorld",
       "BasePrice": 860,
       "Category": "Production",
-      "Enabled": true
-    },
-    "AM_Mech_Nucleotron": {
-      "DefName": "AM_Mech_Nucleotron",
-      "CustomName": "Nucleotron",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "RimWorld",
-      "BasePrice": 800,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Gun_BloodBelcher": {
-      "DefName": "AM_Gun_BloodBelcher",
-      "CustomName": "Blood belcher",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": true,
-      "IsStuffAllowed": false,
-      "IsWeapon": true,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": true,
-      "IsWearable": false,
-      "Mod": "RimWorld",
-      "BasePrice": 1400,
-      "Category": "Weapon",
-      "Enabled": true
-    },
-    "AM_Mech_Sanguinarius": {
-      "DefName": "AM_Mech_Sanguinarius",
-      "CustomName": "Sanguinarius",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "RimWorld",
-      "BasePrice": 1200,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Librarian": {
-      "DefName": "AM_Mech_Librarian",
-      "CustomName": "Scriptomaton",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "RimWorld",
-      "BasePrice": 800,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Geneticor": {
-      "DefName": "AM_Mech_Geneticor",
-      "CustomName": "Geneticor",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "RimWorld",
-      "BasePrice": 800,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Apiarist": {
-      "DefName": "AM_Mech_Apiarist",
-      "CustomName": "Apiarist",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "RimWorld",
-      "BasePrice": 800,
-      "Category": "Mechs",
-      "Enabled": true
-    },
-    "AM_Mech_Angler": {
-      "DefName": "AM_Mech_Angler",
-      "CustomName": "Oceanus",
-      "HasQuantityLimit": true,
-      "IsMelee": false,
-      "IsRanged": false,
-      "IsStuffAllowed": false,
-      "IsWeapon": false,
-      "QuantityLimit": 1,
-      "LimitMode": "OneStack",
-      "ResearchOverrides": null,
-      "IsUsable": false,
-      "IsEquippable": false,
-      "IsWearable": false,
-      "Mod": "RimWorld",
-      "BasePrice": 800,
-      "Category": "Mechs",
       "Enabled": true
     },
     "VCE_UncookedBorscht": {
