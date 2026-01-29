@@ -353,7 +353,7 @@
       "XR_Dwarf": 1750.0
     },
     "EnabledXenotypes": {
-      "Baseliner": true,
+      "Baseliner": false,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -1962,7 +1962,7 @@
       "XR_Dwarf": 2000.0
     },
     "EnabledXenotypes": {
-      "Baseliner": true,
+      "Baseliner": false,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,

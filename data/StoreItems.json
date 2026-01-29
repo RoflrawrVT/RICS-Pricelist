@@ -133681,7 +133681,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1615,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Bunsen": {
@@ -133700,7 +133700,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2880,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Dirtbike": {
@@ -133719,7 +133719,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 875,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Frog": {
@@ -133738,7 +133738,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1535,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Highwayman": {
@@ -133757,7 +133757,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2240,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Mule": {
@@ -133776,7 +133776,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2050,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Prowler": {
@@ -133795,7 +133795,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1490,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Roadkill": {
@@ -133814,7 +133814,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2880,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Scytheman": {
@@ -133833,7 +133833,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2025,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Toad": {
@@ -133852,7 +133852,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2400,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Traveller": {
@@ -133871,7 +133871,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1650,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Bulldog": {
@@ -133890,7 +133890,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 4765,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Charley": {
@@ -133909,7 +133909,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 1485,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Mosquito": {
@@ -133928,7 +133928,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 4050,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Roadrunner": {
@@ -133947,7 +133947,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2730,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Smuggler": {
@@ -133966,7 +133966,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 3780,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Snatcher": {
@@ -133985,7 +133985,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2550,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Tango": {
@@ -134004,7 +134004,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 4650,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Wagon": {
@@ -134023,7 +134023,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2400,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Warbird": {
@@ -134042,7 +134042,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 2950,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Wisent": {
@@ -134061,7 +134061,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded",
       "BasePrice": 4260,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "Cov_Wraith": {
@@ -134080,7 +134080,7 @@
       "IsWearable": false,
       "Mod": "HALO - The Covenant",
       "BasePrice": 4650,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "LTS_Mech_Isopod": {
@@ -136797,7 +136797,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 5210,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_BigRig": {
@@ -136816,7 +136816,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 5700,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Burya": {
@@ -136835,7 +136835,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 7000,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Cherokee": {
@@ -136854,7 +136854,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 12625,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Goliath": {
@@ -136873,7 +136873,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 2400,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Hermano": {
@@ -136892,7 +136892,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 3870,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Lightning": {
@@ -136911,7 +136911,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 3800,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Louie": {
@@ -136930,7 +136930,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 7230,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Marshal": {
@@ -136949,7 +136949,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 6635,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Nomad": {
@@ -136968,7 +136968,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 3550,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Paladin": {
@@ -136987,7 +136987,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 4950,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Springbok": {
@@ -137006,7 +137006,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 4155,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "VVE_Udar": {
@@ -137025,7 +137025,7 @@
       "IsWearable": false,
       "Mod": "Vanilla Vehicles Expanded - Tier 3",
       "BasePrice": 6270,
-      "Category": "Misc",
+      "Category": "Vehicles",
       "Enabled": true
     },
     "Wolfein_Mechanoid_CivilBase": {
