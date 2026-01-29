@@ -1841,11 +1841,11 @@
   },
   "Wolfein_Race": {
     "DisplayName": "Wolfein race",
-    "Enabled": false,
+    "Enabled": true,
     "BasePrice": 2000,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
