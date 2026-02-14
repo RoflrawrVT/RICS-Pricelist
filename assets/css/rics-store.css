@@ -74,13 +74,13 @@ header::before {
 header h1 {
     font-size: 2.8rem;
     margin-bottom: 10px;
-    /* Pastel rainbow text */
+    /* DARKER pastel rainbow text */
     background: linear-gradient(90deg, 
-        #ff99cc, #ffcc99, #ffee99, #99ffcc, 
-        #99ffee, #99ccff, #cc99ff, #ff99ff);
+        #cc6699, #cc9966, #cccc66, #66cc99, 
+        #66cccc, #6699cc, #9966cc, #cc66cc);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-shadow: 0 2px 6px rgba(255, 179, 209, 0.3);
+    text-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
     font-weight: 800;
     letter-spacing: -0.02em;
 }
@@ -134,8 +134,8 @@ header h1 {
     color: transparent;
     font-weight: 800;
     background: linear-gradient(90deg, 
-        #ff99cc, #ffcc99, #ffee99, #99ffcc, 
-        #99ffee, #99ccff, #cc99ff, #ff99ff);
+        #cc6699, #cc9966, #cccc66, #66cc99, 
+        #66cccc, #6699cc, #9966cc, #cc66cc);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
