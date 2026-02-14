@@ -39,7 +39,7 @@ header {
     color: #111;
     border-radius: 16px;
     box-shadow: 0 10px 40px rgba(255, 105, 180, 0.45);
-    position: relative;
+    position: relative;          /* FIXED: for ::before shine */
     overflow: hidden;
 }
 
@@ -84,7 +84,7 @@ header h1 {
     border-radius: 12px 12px 0 0;
     box-shadow: 0 4px 20px rgba(0,0,0,0.06);
     overflow: hidden;
-    position: relative;
+    position: relative;          /* FIXED: for ::after underline */
 }
 
 /* Soft pastel underline */
@@ -109,7 +109,7 @@ header h1 {
     font-size: 1.05rem;
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     border-bottom: 4px solid transparent;
-    position: relative;
+    position: relative;          /* FIXED: for .active::after underline */
     color: #555;
     font-weight: 600;
 }
@@ -151,7 +151,7 @@ header h1 {
     border-radius: 0 0 12px 12px;
     box-shadow: 0 6px 25px rgba(0,0,0,0.08);
     min-height: 420px;
-    position: relative;
+    position: relative;          /* FIXED: for ::before top bar */
 }
 
 .tab-content::before {
@@ -196,7 +196,7 @@ header h1 {
     border-bottom: 3px solid transparent;
     cursor: pointer;
     user-select: none;
-    position: relative;
+    position: relative;          /* FIXED: for ::after sort arrow */
     transition: all 0.3s ease;
 }
 
