@@ -7,8 +7,8 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    color: #333;
-    background: linear-gradient(135deg, #f5f7fa 0%, #e9ecf5 100%);
+    color: #3F3A44; /* soft charcoal */
+    background: linear-gradient(135deg, #F6CFE1 0%, #EFD8F5 100%); /* soft pink to light lavender */
 }
 .container {
     max-width: 1200px;
@@ -16,15 +16,15 @@ body {
     padding: 20px;
 }
 
-/* Header - Bluish gradient */
+/* Header - soft teal to light purple gradient */
 header {
     text-align: center;
     margin-bottom: 30px;
     padding: 20px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+    background: linear-gradient(135deg, #A8DDE0 0%, #CFA7F0 100%);
+    color: #3F3A44; /* soft charcoal for contrast */
     border-radius: 8px;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 4px 15px rgba(168, 221, 224, 0.3); /* soft teal shadow */
 }
 header h1 {
     font-size: 2.5rem;
@@ -49,12 +49,12 @@ header h1 {
     border-bottom: 3px solid transparent;
 }
 .tab-button:hover {
-    background: #f0f3ff; /* light blue tint on hover */
+    background: #EFD8F5; /* light lavender on hover */
 }
 .tab-button.active {
     background: white;
-    border-bottom: 3px solid #667eea; /* match header start color */
-    color: #667eea;
+    border-bottom: 3px solid #CFA7F0; /* light purple */
+    color: #CFA7F0; /* light purple */
     font-weight: bold;
 }
 
@@ -80,15 +80,15 @@ header h1 {
 .search-input {
     width: 100%;
     padding: 12px;
-    border: 2px solid #e9ecef;
+    border: 2px solid #e9ecef; /* neutral light gray, can be kept or changed to a soft pink */
     border-radius: 6px;
     font-size: 1rem;
     transition: all 0.3s ease;
 }
 .search-input:focus {
     outline: none;
-    border-color: #667eea;
-    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+    border-color: #CFA7F0; /* light purple */
+    box-shadow: 0 0 0 3px rgba(207, 167, 240, 0.2);
 }
 
 /* Table styles */
@@ -101,62 +101,62 @@ header h1 {
     margin-top: 10px;
 }
 .items-table th {
-    background: linear-gradient(135deg, #f0f3ff 0%, #f5f0ff 100%);
+    background: linear-gradient(135deg, #F6CFE1 0%, #EFD8F5 100%); /* soft pink to light lavender */
     padding: 15px;
     text-align: left;
     font-weight: 600;
-    color: #495057;
-    border-bottom: 2px solid #764ba2;
+    color: #495057; /* keep this neutral or change to #3F3A44? */
+    border-bottom: 2px solid #CFA7F0; /* light purple */
     cursor: pointer;
     user-select: none;
     position: relative;
 }
 .items-table th:hover {
-    background: linear-gradient(135deg, #e8ecff 0%, #ede5ff 100%);
+    background: linear-gradient(135deg, #EFD8F5 0%, #F6CFE1 100%);
 }
 .items-table th::after {
     content: '↕';
     position: absolute;
     right: 10px;
     opacity: 0.3;
-    color: #667eea;
+    color: #CFA7F0; /* light purple */
 }
 .items-table th.sort-asc::after {
     content: '↑';
     opacity: 1;
-    color: #764ba2;
+    color: #A8DDE0; /* soft teal */
 }
 .items-table th.sort-desc::after {
     content: '↓';
     opacity: 1;
-    color: #764ba2;
+    color: #A8DDE0; /* soft teal */
 }
 .items-table td {
     padding: 15px;
-    border-bottom: 1px solid #dee2e6;
+    border-bottom: 1px solid #dee2e6; /* neutral light gray, can be softened if desired */
     vertical-align: top;
 }
 .items-table tbody tr:hover {
-    background: linear-gradient(135deg, #f8faff 0%, #faf5ff 100%);
+    background: linear-gradient(135deg, #FEF0F5 0%, #F9EFFC 100%); /* very light pink to very light lavender */
 }
 
 /* Metadata styles */
 .metadata {
     font-size: 0.85rem;
-    color: #6c757d;
+    color: #5A3E4B; /* muted plum brown */
     display: block;
     margin-top: 5px;
 }
 
 /* Race-specific styles */
 .race-xenotype {
-    background: linear-gradient(135deg, #f0f3ff 0%, #f5f0ff 100%);
+    background: linear-gradient(135deg, #F6CFE1 0%, #EFD8F5 100%); /* soft pink to light lavender */
 }
 .race-base {
     background-color: white;
 }
 .items-table tr.race-base {
-    border-bottom: 2px solid #dee2e6;
+    border-bottom: 2px solid #dee2e6; /* matches table border */
 }
 
 /* Responsive design */
@@ -181,9 +181,9 @@ header h1 {
     }
 }
 
-/* Additional accents to match the bluish theme */
+/* Additional accents to match the pastel theme */
 ::selection {
-    background: #667eea;
+    background: #CFA7F0; /* light purple */
     color: white;
 }
 
@@ -194,14 +194,14 @@ header h1 {
 }
 
 ::-webkit-scrollbar-track {
-    background: #f0f3ff;
+    background: #EFD8F5; /* light lavender */
 }
 
 ::-webkit-scrollbar-thumb {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #A8DDE0, #CFA7F0); /* soft teal to light purple */
     border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(135deg, #5a6fd9, #6a4295);
+    background: linear-gradient(135deg, #97C7CA, #B892D9); /* slightly darker versions */
 }
