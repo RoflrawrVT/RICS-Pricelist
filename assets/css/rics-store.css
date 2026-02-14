@@ -9,13 +9,14 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: #333;
-    /* Light rainbow background */
+    /* Soft pastel rainbow background */
     background: linear-gradient(135deg, 
-        #fff0f5 0%, 
-        #fff7e6 25%, 
-        #f0fff0 50%, 
-        #f0f8ff 75%, 
-        #f5f0ff 100%);
+        #fff0f8 0%, 
+        #fff7eb 20%, 
+        #f9ffe8 40%, 
+        #e8fff0 60%, 
+        #e8f7ff 80%, 
+        #f0e8ff 100%);
 }
 
 /* Container */
@@ -25,28 +26,28 @@ body {
     padding: 20px;
 }
 
-/* Header - FULL RAINBOW */
+/* Header - PASTEL RAINBOW */
 header {
     text-align: center;
     margin-bottom: 30px;
     padding: 30px 20px;
     background: linear-gradient(135deg, 
-        #ff0000 0%, 
-        #ff7f00 14%, 
-        #ffff00 28%, 
-        #00ff00 42%, 
-        #00ffff 57%, 
-        #0000ff 71%, 
-        #8f00ff 85%, 
-        #ff00ff 100%);
-    color: white;
+        #ffb3d1 0%, 
+        #ffd4a3 14%, 
+        #fff2a3 28%, 
+        #b3ffcc 42%, 
+        #b3fff0 57%, 
+        #b3d9ff 71%, 
+        #d4b3ff 85%, 
+        #ffb3ff 100%);
+    color: #333;
     border-radius: 16px;
-    box-shadow: 0 8px 30px rgba(255, 0, 255, 0.4);
+    box-shadow: 0 8px 30px rgba(255, 179, 209, 0.35);
     position: relative;
     overflow: hidden;
 }
 
-/* Rainbow shine effect on header */
+/* Gentle pastel shine */
 header::before {
     content: '';
     position: absolute;
@@ -56,16 +57,16 @@ header::before {
     height: 200%;
     background: linear-gradient(
         135deg,
-        rgba(255,255,255,0.3) 0%,
+        rgba(255,255,255,0.45) 0%,
         rgba(255,255,255,0) 50%,
-        rgba(255,255,255,0.3) 100%
+        rgba(255,255,255,0.45) 100%
     );
     transform: rotate(30deg);
-    animation: rainbowShine 8s linear infinite;
+    animation: pastelShine 10s linear infinite;
     pointer-events: none;
 }
 
-@keyframes rainbowShine {
+@keyframes pastelShine {
     0% { transform: translateX(-100%) rotate(30deg); }
     100% { transform: translateX(100%) rotate(30deg); }
 }
@@ -73,28 +74,28 @@ header::before {
 header h1 {
     font-size: 2.8rem;
     margin-bottom: 10px;
-    /* Rainbow text */
+    /* Pastel rainbow text */
     background: linear-gradient(90deg, 
-        #ff0000, #ff7f00, #ffff00, #00ff00, 
-        #00ffff, #0000ff, #8f00ff, #ff00ff);
+        #ff99cc, #ffcc99, #ffee99, #99ffcc, 
+        #99ffee, #99ccff, #cc99ff, #ff99ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+    text-shadow: 0 2px 6px rgba(255, 179, 209, 0.3);
     font-weight: 800;
     letter-spacing: -0.02em;
 }
 
-/* Tabs - rainbow accents */
+/* Tabs */
 .tabs {
     display: flex;
     background: white;
     border-radius: 12px 12px 0 0;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.06);
     overflow: hidden;
     position: relative;
 }
 
-/* Rainbow bottom glow on tabs container */
+/* Soft pastel underline */
 .tabs::after {
     content: '';
     position: absolute;
@@ -103,8 +104,8 @@ header h1 {
     width: 100%;
     height: 4px;
     background: linear-gradient(to right, 
-        #ff0000, #ff7f00, #ffff00, #00ff00, 
-        #00ffff, #0000ff, #8f00ff, #ff00ff);
+        #ffb3d1, #ffd4a3, #fff2a3, #b3ffcc, 
+        #b3fff0, #b3d9ff, #d4b3ff, #ffb3ff);
 }
 
 /* Tab buttons */
@@ -122,12 +123,8 @@ header h1 {
 }
 
 .tab-button:hover {
-    /* Light rainbow hover */
     background: linear-gradient(135deg, 
-        #fff0f5 0%, 
-        #fff7e6 33%, 
-        #f0fff0 66%, 
-        #f0f8ff 100%);
+        #fff0f8 0%, #fff7eb 33%, #f9ffe8 66%, #e8fff0 100%);
     transform: translateY(-2px);
     color: #222;
 }
@@ -136,15 +133,13 @@ header h1 {
     background: white;
     color: transparent;
     font-weight: 800;
-    /* Rainbow text for active tab */
     background: linear-gradient(90deg, 
-        #ff0000, #ff7f00, #ffff00, #00ff00, 
-        #00ffff, #0000ff, #8f00ff, #ff00ff);
+        #ff99cc, #ffcc99, #ffee99, #99ffcc, 
+        #99ffee, #99ccff, #cc99ff, #ff99ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
-/* Rainbow underline for active tab */
 .tab-button.active::after {
     content: '';
     position: absolute;
@@ -153,8 +148,8 @@ header h1 {
     width: 100%;
     height: 5px;
     background: linear-gradient(to right, 
-        #ff0000, #ff7f00, #ffff00, #00ff00, 
-        #00ffff, #0000ff, #8f00ff, #ff00ff);
+        #ffb3d1, #ffd4a3, #fff2a3, #b3ffcc, 
+        #b3fff0, #b3d9ff, #d4b3ff, #ffb3ff);
     border-radius: 3px;
 }
 
@@ -162,12 +157,11 @@ header h1 {
 .tab-content {
     background: white;
     border-radius: 0 0 12px 12px;
-    box-shadow: 0 6px 25px rgba(0,0,0,0.1);
+    box-shadow: 0 6px 25px rgba(0,0,0,0.08);
     min-height: 420px;
     position: relative;
 }
 
-/* Subtle rainbow edge on content */
 .tab-content::before {
     content: '';
     position: absolute;
@@ -176,20 +170,16 @@ header h1 {
     right: 0;
     height: 3px;
     background: linear-gradient(to right, 
-        #ff0000, #ff7f00, #ffff00, #00ff00, 
-        #00ffff, #0000ff, #8f00ff, #ff00ff);
-    opacity: 0.6;
+        #ffb3d1, #ffd4a3, #fff2a3, #b3ffcc, 
+        #b3fff0, #b3d9ff, #d4b3ff, #ffb3ff);
+    opacity: 0.7;
 }
 
 /* Search box */
-.search-box {
-    margin-bottom: 20px;
-}
-
 .search-input {
     width: 100%;
     padding: 14px 18px;
-    border: 3px solid #e9ecef;
+    border: 3px solid #f0e6f5;
     border-radius: 12px;
     font-size: 1.05rem;
     transition: all 0.4s ease;
@@ -199,33 +189,18 @@ header h1 {
 .search-input:focus {
     outline: none;
     border-color: transparent;
-    box-shadow: 0 0 0 4px rgba(255, 105, 180, 0.3),
-                0 0 0 6px rgba(0, 255, 255, 0.2);
-    /* Rainbow border via box-shadow */
+    box-shadow: 0 0 0 4px rgba(255, 179, 209, 0.25),
+                0 0 0 6px rgba(179, 255, 240, 0.2);
 }
 
-/* Table styles */
-.table-container {
-    overflow-x: auto;
-}
-
-.items-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-    background: white;
-}
-
+/* Table */
 .items-table th {
     background: linear-gradient(135deg, 
-        #fff0f5 0%, 
-        #fff7e6 33%, 
-        #f0fff0 66%, 
-        #f0f8ff 100%);
+        #fff0f8 0%, #fff7eb 33%, #f9ffe8 66%, #e8fff0 100%);
     padding: 16px;
     text-align: left;
     font-weight: 700;
-    color: #222;
+    color: #444;
     border-bottom: 3px solid transparent;
     cursor: pointer;
     user-select: none;
@@ -235,10 +210,7 @@ header h1 {
 
 .items-table th:hover {
     background: linear-gradient(135deg, 
-        #ffe0e6 0%, 
-        #fff0c0 33%, 
-        #e0ffe0 66%, 
-        #e0f0ff 100%);
+        #ffe6f0 0%, #fff0d6 33%, #f0ffe6 66%, #e6f7ff 100%);
     transform: scale(1.01);
 }
 
@@ -246,109 +218,76 @@ header h1 {
     content: '↕';
     position: absolute;
     right: 16px;
-    opacity: 0.4;
-    color: #ff00ff;
+    opacity: 0.5;
+    color: #ff99cc;
     font-size: 1.1em;
 }
 
 .items-table th.sort-asc::after,
 .items-table th.sort-desc::after {
     opacity: 1;
-    color: #ffff00;
-    text-shadow: 0 0 8px #ff0000;
+    color: #ffee99;
 }
 
 .items-table td {
     padding: 16px;
-    border-bottom: 1px solid #f0f0f0;
+    border-bottom: 1px solid #f8f0fa;
     vertical-align: top;
     transition: background 0.3s;
 }
 
 .items-table tbody tr:hover {
     background: linear-gradient(135deg, 
-        #fff5f8 0%, 
-        #fffff0 33%, 
-        #f0fff5 66%, 
-        #f0f8ff 100%);
-    transform: scale(1.005);
-    box-shadow: 0 4px 15px rgba(255, 105, 180, 0.15);
+        #fff5fa 0%, #fffdf0 33%, #f0fff5 66%, #f0f8ff 100%);
+    box-shadow: 0 4px 12px rgba(255, 179, 209, 0.12);
 }
 
-/* Metadata */
-.metadata {
-    font-size: 0.85rem;
-    color: #888;
-    display: block;
-    margin-top: 6px;
-    font-style: italic;
-}
-
-/* Race-specific */
+/* Race styles */
 .race-xenotype {
-    background: linear-gradient(135deg, #fff0f5 0%, #f0fff0 100%);
-}
-
-.race-base {
-    background-color: white;
+    background: linear-gradient(135deg, #fff0f8 0%, #e8fff0 100%);
 }
 
 .items-table tr.race-base {
-    border-bottom: 2px solid #ff69b4;
+    border-bottom: 2px solid #ffb3d1;
 }
 
 /* Responsive */
 @media (max-width: 768px) {
-    .container {
-        padding: 10px;
-    }
-  
-    .tab-button {
-        padding: 14px 18px;
-        font-size: 0.95rem;
-    }
-  
-    .items-table th,
-    .items-table td {
-        padding: 12px 8px;
-        font-size: 0.9rem;
-    }
-  
-    header h1 {
-        font-size: 2.2rem;
-    }
+    .container { padding: 10px; }
+    .tab-button { padding: 14px 18px; font-size: 0.95rem; }
+    .items-table th, .items-table td { padding: 12px 8px; font-size: 0.9rem; }
+    header h1 { font-size: 2.2rem; }
 }
 
-/* Rainbow selection */
+/* Pastel selection */
 ::selection {
     background: linear-gradient(to right, 
-        #ff0000, #ff7f00, #ffff00, #00ff00, 
-        #00ffff, #0000ff, #8f00ff, #ff00ff);
-    color: white;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.4);
+        #ffb3d1, #ffd4a3, #fff2a3, #b3ffcc, 
+        #b3fff0, #b3d9ff, #d4b3ff, #ffb3ff);
+    color: #333;
 }
 
-/* Rainbow scrollbar */
+/* Pastel rainbow scrollbar */
 ::-webkit-scrollbar {
     width: 12px;
     height: 12px;
 }
 
 ::-webkit-scrollbar-track {
-    background: #f8f8f8;
+    background: #fdf4f9;
     border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb {
     background: linear-gradient(135deg, 
-        #ff0000, #ff7f00, #ffff00, #00ff00, 
-        #00ffff, #0000ff, #8f00ff, #ff00ff);
+        #ffb3d1, #ffd4a3, #fff2a3, #b3ffcc, 
+        #b3fff0, #b3d9ff, #d4b3ff, #ffb3ff);
     border-radius: 10px;
-    border: 2px solid #f8f8f8;
+    border: 2px solid #fdf4f9;
 }
 
 ::-webkit-scrollbar-thumb:hover {
     background: linear-gradient(135deg, 
-        #cc0000, #cc6600, #cccc00, #00cc00, 
-        #00cccc, #0000cc, #6600cc, #cc00cc);
+        #ff99b3, #ffb38c, #ffe68c, #8cffb3, 
+        #8cffe6, #8cc2ff, #b38cff, #ff8cff);
 }
