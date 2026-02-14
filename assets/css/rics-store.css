@@ -26,21 +26,24 @@ body {
     padding: 20px;
 }
 
-/* Header - NOW BLACK */
+/* Header - PASTEL PINK + BLACK TEXT */
 header {
     text-align: center;
     margin-bottom: 30px;
     padding: 30px 20px;
-    /* Deep black with subtle depth */
-    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
-    color: white;
+    /* Soft pastel pink gradient */
+    background: linear-gradient(135deg, 
+        #ffb3d1 0%, 
+        #ff99cc 50%, 
+        #ff80b3 100%);
+    color: #111;
     border-radius: 16px;
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 10px 40px rgba(255, 105, 180, 0.45);
     position: relative;
     overflow: hidden;
 }
 
-/* Gentle pastel shine on black */
+/* Gentle shine on pink */
 header::before {
     content: '';
     position: absolute;
@@ -50,9 +53,9 @@ header::before {
     height: 200%;
     background: linear-gradient(
         135deg,
-        rgba(255,255,255,0.25) 0%,
+        rgba(255,255,255,0.5) 0%,
         rgba(255,255,255,0) 50%,
-        rgba(255,255,255,0.25) 100%
+        rgba(255,255,255,0.5) 100%
     );
     transform: rotate(30deg);
     animation: pastelShine 10s linear infinite;
@@ -67,14 +70,9 @@ header::before {
 header h1 {
     font-size: 2.8rem;
     margin-bottom: 10px;
-    /* DARKER pastel rainbow text (kept from last edit) */
-    background: linear-gradient(90deg, 
-        #cc6699, #cc9966, #cccc66, #66cc99, 
-        #66cccc, #6699cc, #9966cc, #cc66cc);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-shadow: 0 4px 15px rgba(0, 0, 0, 0.6),
-                 0 0 25px rgba(255, 153, 204, 0.4);
+    /* Solid black text */
+    color: #111;
+    text-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
     font-weight: 800;
     letter-spacing: -0.02em;
 }
