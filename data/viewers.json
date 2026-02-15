@@ -1,10 +1,10 @@
 {
-  "total": 15,
+  "total": 16,
   "viewers": [
     {
       "username": "roflrawrvt",
-      "karma": 146,
-      "coins": 86387,
+      "karma": 148,
+      "coins": 89481,
       "isBanned": false,
       "platformIds": {
         "twitch": "254954818"
@@ -12,8 +12,8 @@
     },
     {
       "username": "dreamfinder11",
-      "karma": 338,
-      "coins": 8829,
+      "karma": 358,
+      "coins": 15765,
       "isBanned": false,
       "platformIds": {
         "twitch": "72245813"
@@ -76,7 +76,7 @@
     {
       "username": "soundalerts",
       "karma": 100,
-      "coins": 4254,
+      "coins": 4694,
       "isBanned": false,
       "platformIds": {
         "twitch": "216527497"
@@ -84,8 +84,8 @@
     },
     {
       "username": "tikay_1",
-      "karma": 100,
-      "coins": 4400,
+      "karma": 119,
+      "coins": 5894,
       "isBanned": false,
       "platformIds": {
         "twitch": "182649027"
@@ -94,7 +94,7 @@
     {
       "username": "evolnala",
       "karma": 100,
-      "coins": 3207,
+      "coins": 3567,
       "isBanned": false,
       "platformIds": {
         "twitch": "631173662"
@@ -132,6 +132,15 @@
       "isBanned": false,
       "platformIds": {
         "twitch": "1022610190"
+      }
+    },
+    {
+      "username": "streamelements",
+      "karma": 100,
+      "coins": 1112,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "100135110"
       }
     }
   ]
