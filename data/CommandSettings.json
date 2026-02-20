@@ -23,7 +23,7 @@
     "CustomData": ""
   },
   "giftcoins": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 5,
     "Cost": 0,
     "SupportsCost": false,

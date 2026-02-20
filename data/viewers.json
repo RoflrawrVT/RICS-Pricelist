@@ -1,10 +1,10 @@
 {
-  "total": 16,
+  "total": 17,
   "viewers": [
     {
       "username": "roflrawrvt",
-      "karma": 148,
-      "coins": 89481,
+      "karma": 149,
+      "coins": 91627,
       "isBanned": false,
       "platformIds": {
         "twitch": "254954818"
@@ -12,8 +12,8 @@
     },
     {
       "username": "dreamfinder11",
-      "karma": 358,
-      "coins": 15765,
+      "karma": 480,
+      "coins": 6887,
       "isBanned": false,
       "platformIds": {
         "twitch": "72245813"
@@ -22,7 +22,7 @@
     {
       "username": "olaandse",
       "karma": 100,
-      "coins": 3827,
+      "coins": 4067,
       "isBanned": false,
       "platformIds": {
         "twitch": "1433128774"
@@ -31,7 +31,7 @@
     {
       "username": "frostytoolsdotcom",
       "karma": 100,
-      "coins": 3642,
+      "coins": 4070,
       "isBanned": false,
       "platformIds": {
         "twitch": "955237329"
@@ -40,7 +40,7 @@
     {
       "username": "enjoy2100",
       "karma": 100,
-      "coins": 3593,
+      "coins": 3833,
       "isBanned": false,
       "platformIds": {
         "twitch": "40526861"
@@ -49,7 +49,7 @@
     {
       "username": "truffcat",
       "karma": 100,
-      "coins": 3540,
+      "coins": 3780,
       "isBanned": false,
       "platformIds": {
         "twitch": "738880295"
@@ -58,7 +58,7 @@
     {
       "username": "hopeful_destroyer",
       "karma": 186,
-      "coins": 5539,
+      "coins": 5983,
       "isBanned": false,
       "platformIds": {
         "twitch": "758741066"
@@ -67,7 +67,7 @@
     {
       "username": "fridgemakara",
       "karma": 108,
-      "coins": 4360,
+      "coins": 4612,
       "isBanned": false,
       "platformIds": {
         "twitch": "137781622"
@@ -76,7 +76,7 @@
     {
       "username": "soundalerts",
       "karma": 100,
-      "coins": 4694,
+      "coins": 4934,
       "isBanned": false,
       "platformIds": {
         "twitch": "216527497"
@@ -85,7 +85,7 @@
     {
       "username": "tikay_1",
       "karma": 119,
-      "coins": 5894,
+      "coins": 6170,
       "isBanned": false,
       "platformIds": {
         "twitch": "182649027"
@@ -94,7 +94,7 @@
     {
       "username": "evolnala",
       "karma": 100,
-      "coins": 3567,
+      "coins": 4227,
       "isBanned": false,
       "platformIds": {
         "twitch": "631173662"
@@ -103,7 +103,7 @@
     {
       "username": "captolamia",
       "karma": 100,
-      "coins": 4075,
+      "coins": 4533,
       "isBanned": false,
       "platformIds": {
         "twitch": "58513264"
@@ -112,7 +112,7 @@
     {
       "username": "prophet_nine",
       "karma": 100,
-      "coins": 2385,
+      "coins": 2625,
       "isBanned": false,
       "platformIds": {
         "twitch": "224443388"
@@ -121,14 +121,14 @@
     {
       "username": "twitch:254954818",
       "karma": 100,
-      "coins": 1120,
+      "coins": 1360,
       "isBanned": false,
       "platformIds": {}
     },
     {
       "username": "th3lucky77",
       "karma": 100,
-      "coins": 100,
+      "coins": 340,
       "isBanned": false,
       "platformIds": {
         "twitch": "1022610190"
@@ -137,10 +137,19 @@
     {
       "username": "streamelements",
       "karma": 100,
-      "coins": 1112,
+      "coins": 2970,
       "isBanned": false,
       "platformIds": {
         "twitch": "100135110"
+      }
+    },
+    {
+      "username": "elusivesmoke",
+      "karma": 100,
+      "coins": 5045,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "510989054"
       }
     }
   ]

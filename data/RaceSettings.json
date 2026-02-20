@@ -108,7 +108,8 @@
       "AG_Nereid": 2625.0,
       "AG_Forsaken": 1750.0,
       "AG_RandomCustom": 1750.0,
-      "KiiroXenotype": 1750.0
+      "KiiroXenotype": 1750.0,
+      "DV_Venator": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -204,7 +205,8 @@
       "AG_Nereid": true,
       "AG_Forsaken": false,
       "AG_RandomCustom": false,
-      "KiiroXenotype": false
+      "KiiroXenotype": false,
+      "DV_Venator": true
     }
   },
   "Alien_Cinder": {
@@ -524,7 +526,8 @@
       "AG_Nereid": 2850.0,
       "AG_Forsaken": 1900.0,
       "AG_RandomCustom": 1900.0,
-      "KiiroXenotype": 1900.0
+      "KiiroXenotype": 1900.0,
+      "DV_Venator": 1900.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -620,7 +623,8 @@
       "AG_Nereid": false,
       "AG_Forsaken": false,
       "AG_RandomCustom": false,
-      "KiiroXenotype": false
+      "KiiroXenotype": false,
+      "DV_Venator": true
     }
   },
   "Wolfein_Race": {

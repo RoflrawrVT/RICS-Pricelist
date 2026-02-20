@@ -547,14 +547,13 @@
     "Degree": 2,
     "Description": "[PAWN_name] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth.",
     "Stats": [
-      "+2 Beauty",
-      "+15 Dysphoria (generic)"
+      "+2 Beauty"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 2640,
-    "RemovePrice": 4400,
+    "AddPrice": 389,
+    "RemovePrice": 649,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -569,14 +568,13 @@
     "Degree": 1,
     "Description": "[PAWN_name] has a pretty face, which predisposes people to like [PAWN_objective].",
     "Stats": [
-      "+1 Beauty",
-      "+7 Dysphoria (generic)"
+      "+1 Beauty"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 1320,
-    "RemovePrice": 2200,
+    "AddPrice": 269,
+    "RemovePrice": 449,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -591,14 +589,13 @@
     "Degree": -1,
     "Description": "[PAWN_name] is somewhat ugly. This subtly repels others during social interactions.",
     "Stats": [
-      "-1 Beauty",
-      "-7 Dysphoria (generic)"
+      "-1 Beauty"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 396,
-    "RemovePrice": 3300,
+    "AddPrice": 81,
+    "RemovePrice": 674,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -613,14 +610,13 @@
     "Degree": -2,
     "Description": "[PAWN_name] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing.",
     "Stats": [
-      "-2 Beauty",
-      "-15 Dysphoria (generic)"
+      "-2 Beauty"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 792,
-    "RemovePrice": 6600,
+    "AddPrice": 117,
+    "RemovePrice": 974,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
