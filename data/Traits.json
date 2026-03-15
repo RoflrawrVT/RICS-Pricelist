@@ -2498,7 +2498,7 @@
     "Stats": [
       "+0.2 Mining speed",
       "+0.2 Deep drilling speed",
-      "+0.2 Plant sowing speed",
+      "+0.2 Plant work speed",
       "+0.2 Animal gather speed",
       "+0.2 Butchery speed",
       "+0.2 Mechanoid shredding speed",
@@ -2625,7 +2625,7 @@
       "-0.2 Move speed",
       "-10.0% Incoming damage multiplier",
       "+0.1 Pain shock threshold",
-      "+0.1 Plant sowing speed",
+      "+0.1 Plant work speed",
       "-20.0% Global certainty loss factor",
       "+0.2 Slave suppression fall rate"
     ],
@@ -2695,7 +2695,7 @@
     "Degree": 0,
     "Description": "[PAWN_name] has a passion for gardening. [PAWN_pronoun] is quick when working with plants and recieves more bountiful yields when harvesting them.",
     "Stats": [
-      "+0.1 Plant sowing speed",
+      "+0.1 Plant work speed",
       "+0.1 Plant harvest yield",
       "+0.1 Drug crop harvest yield",
       "+1 Foraged food amount",
@@ -2748,7 +2748,7 @@
     "Degree": 0,
     "Description": "[PAWN_name] seems to discover hidden wealth where ever [PAWN_pronoun] goes.",
     "Stats": [
-      "+0.1 Mining yield (other)",
+      "+0.1 Mining yield",
       "+0.1 Animal gather yield",
       "+0.1 Plant harvest yield",
       "+0.1 Drug crop harvest yield",
@@ -3011,7 +3011,7 @@
     "Description": "[PAWN_name] is part woodchuck! [PAWN_pronoun] wants everyone to think [PAWN_possessive] great woodworking skills are because of talent but everybody knows it's really because of those dang teeth.",
     "Stats": [
       "+0.3 Construction speed",
-      "+0.3 Plant sowing speed",
+      "+0.3 Plant work speed",
       "+0.1 Plant harvest yield",
       "-1 Beauty",
       "-0.1 Social impact"
@@ -4530,7 +4530,7 @@
     "Degree": 0,
     "Description": "{PAWN_nameDef} believes infrastructure is everything. {PAWN_pronoun} is a natural builder and stoneworker, constructing and mining with greater speed and efficiency.",
     "Stats": [
-      "+0.2 Mining yield (other)",
+      "+0.2 Mining yield",
       "+0.2 Construction speed"
     ],
     "Conflicts": [],
