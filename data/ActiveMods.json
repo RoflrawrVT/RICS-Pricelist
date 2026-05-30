@@ -1,7 +1,13 @@
 {
-  "exportedAt": "2026-05-09T19:33:22.0713839Z",
-  "totalActiveMods": 465,
+  "exportedAt": "2026-05-30T20:19:42.6803509Z",
+  "totalActiveMods": 485,
   "mods": [
+    {
+      "author": "Veltaris",
+      "name": "[AV] Mechanoid Skins",
+      "steamId": "3667667489",
+      "version": "1.02.01"
+    },
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
@@ -30,6 +36,24 @@
       "author": "FrozenSnowFox",
       "name": "[FSF] Filth Vanishes With Rain And Time",
       "steamId": "1508341791",
+      "version": null
+    },
+    {
+      "author": "Krazy4Games",
+      "name": "[K4G] Empires of Old - Core",
+      "steamId": "2950690769",
+      "version": null
+    },
+    {
+      "author": "Krazy4Games",
+      "name": "[K4G] Make RimWorld Great Again",
+      "steamId": "3351489196",
+      "version": null
+    },
+    {
+      "author": "Krazy,  Taranchuk",
+      "name": "[K4G] PawnKind Extension",
+      "steamId": "3101448554",
       "version": null
     },
     {
@@ -72,6 +96,12 @@
       "author": "Wyr3d",
       "name": "[WYD] Worthless Junk (Adjusted)",
       "steamId": "3497961373",
+      "version": null
+    },
+    {
+      "author": "XeoNovaDan,  Jelly",
+      "name": "[XND] Proper Shotguns (Continued)",
+      "steamId": "2584374906",
       "version": null
     },
     {
@@ -195,15 +225,15 @@
       "version": null
     },
     {
-      "author": "Jester Romut",
-      "name": "Anime Mech Retexture WIP (Continued)",
-      "steamId": "3503705013",
-      "version": null
-    },
-    {
       "author": "Ludeon Studios",
       "name": "Anomaly",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Alsariul",
+      "name": "Anomaly for Gravship",
+      "steamId": "3558784993",
       "version": null
     },
     {
@@ -219,12 +249,6 @@
       "version": null
     },
     {
-      "author": "Lythical",
-      "name": "Anthrosonae Bodies Retextured",
-      "steamId": "3353741592",
-      "version": null
-    },
-    {
       "author": "KarmaDreamer",
       "name": "Anthrosonae Nice Health Tab",
       "steamId": "3568858191",
@@ -234,6 +258,12 @@
       "author": "Lythical,  Erin",
       "name": "Anthrosonae: Felines",
       "steamId": "3687739122",
+      "version": null
+    },
+    {
+      "author": "Fodofox",
+      "name": "Anti-Storyteller: Ana Apathy",
+      "steamId": "3722032569",
       "version": null
     },
     {
@@ -252,6 +282,12 @@
       "author": "Myf",
       "name": "Ars Mythica - Lightseeker",
       "steamId": "3068154233",
+      "version": null
+    },
+    {
+      "author": "IcyCheeseCake",
+      "name": "Arsenal - Orbital Security",
+      "steamId": "3688808936",
       "version": null
     },
     {
@@ -346,8 +382,8 @@
     },
     {
       "author": "Alsariul",
-      "name": "Biotech for Gravship",
-      "steamId": "3722358861",
+      "name": "Biotech for Lightness",
+      "steamId": "3727972463",
       "version": "1.0.1"
     },
     {
@@ -369,10 +405,16 @@
       "version": null
     },
     {
+      "author": "Holgast",
+      "name": "Bulk Stonecutting (Forked)",
+      "steamId": "2594241153",
+      "version": null
+    },
+    {
       "author": "Andreas Pardeike",
       "name": "Camera+",
       "steamId": "867467808",
-      "version": "3.3.2.0"
+      "version": "3.4.4.0"
     },
     {
       "author": "busted_bunny",
@@ -402,6 +444,12 @@
       "author": "rabiosus",
       "name": "CharacterEditor-VPsyE compatibility patch",
       "steamId": "3639594145",
+      "version": null
+    },
+    {
+      "author": "小于三uwu，Marukun",
+      "name": "Childhood Learning & Growth",
+      "steamId": "3728275608",
       "version": null
     },
     {
@@ -438,12 +486,6 @@
       "author": "BreadMo AOBA",
       "name": "Cinders of the Embergarden",
       "steamId": "3421959154",
-      "version": null
-    },
-    {
-      "author": "Leo39994",
-      "name": "Clean Research Sort",
-      "steamId": "3566639513",
       "version": null
     },
     {
@@ -564,12 +606,6 @@
       "author": "LUNARTIKA",
       "name": "Diner Supplies",
       "steamId": "3501336537",
-      "version": null
-    },
-    {
-      "author": "Spincrus",
-      "name": "Dinosauria",
-      "steamId": "1136958577",
       "version": null
     },
     {
@@ -729,9 +765,9 @@
       "version": "1.0.4"
     },
     {
-      "author": "Erin",
-      "name": "Erin's Body Retexture",
-      "steamId": "2662457442",
+      "author": "Carny Senpai",
+      "name": "Enable Oversized Weapons",
+      "steamId": "2543371889",
       "version": null
     },
     {
@@ -744,6 +780,18 @@
       "author": "Victorique,  Aurani,  Tarojun",
       "name": "Expanded Prosthetics and Organ Engineering - Forked",
       "steamId": "1949064302",
+      "version": null
+    },
+    {
+      "author": "IcyCheeseCake",
+      "name": "Faction - Elves",
+      "steamId": "3726293423",
+      "version": null
+    },
+    {
+      "author": "IcyCheeseCake",
+      "name": "Faction - Orbiters",
+      "steamId": "3698816189",
       "version": null
     },
     {
@@ -810,7 +858,7 @@
       "author": "seeki",
       "name": "Forced Rearmament",
       "steamId": "3232549170",
-      "version": "2.4.0.0"
+      "version": "2.5.0.0"
     },
     {
       "author": "Zaljerem",
@@ -828,12 +876,6 @@
       "author": "Eragon,  Noobert,  Horologium",
       "name": "Fox Overhaul",
       "steamId": "3527656849",
-      "version": null
-    },
-    {
-      "author": "Paul Freeman",
-      "name": "Free Will",
-      "steamId": "2580837227",
       "version": null
     },
     {
@@ -870,7 +912,7 @@
       "author": "Captain Muscles (Nathan Harbour)",
       "name": "Grab Your Tool! (Continued)",
       "steamId": "2947023388",
-      "version": "1.6.0"
+      "version": "1.6.1"
     },
     {
       "author": "Kilo",
@@ -882,12 +924,6 @@
       "author": "SirProok",
       "name": "Grievous Wounds",
       "steamId": "3459265518",
-      "version": null
-    },
-    {
-      "author": "Velc",
-      "name": "Growing Plants 24H",
-      "steamId": "2887518354",
       "version": null
     },
     {
@@ -933,27 +969,15 @@
       "version": null
     },
     {
-      "author": "Zaljerem",
-      "name": "Hospitality (Continued)",
-      "steamId": "3509486825",
-      "version": "1.0.8"
-    },
-    {
-      "author": "Adamas",
-      "name": "Hospitality: Casino",
-      "steamId": "2939292644",
-      "version": null
-    },
-    {
-      "author": "Adamas",
-      "name": "Hospitality: Vending machines",
-      "steamId": "3014885065",
-      "version": null
-    },
-    {
       "author": "Geojak",
       "name": "HostileEmpireSpaceFaction",
       "steamId": "3556886146",
+      "version": null
+    },
+    {
+      "author": "huddys12",
+      "name": "Huddys12's Wound Retexture",
+      "steamId": "3725609020",
       "version": null
     },
     {
@@ -990,6 +1014,12 @@
       "author": "Ludeon Studios",
       "name": "Ideology",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "moardm",
+      "name": "IdeologyDoubt",
+      "steamId": "3372946055",
       "version": null
     },
     {
@@ -1059,6 +1089,12 @@
       "version": null
     },
     {
+      "author": "Smelly Fish",
+      "name": "Lesser mood debuffs",
+      "steamId": "1545520168",
+      "version": null
+    },
+    {
       "author": "akairo,  Bernau31",
       "name": "Let's Have a Cat! Continued",
       "steamId": "3682940618",
@@ -1119,6 +1155,12 @@
       "version": null
     },
     {
+      "author": "Veltaris,  BlackMarket420",
+      "name": "Mechanoid Skins: Kraltech Industries",
+      "steamId": "3732548089",
+      "version": "1.0.00"
+    },
+    {
       "author": "Spino,  Sarg",
       "name": "Megafauna",
       "steamId": "1055485938",
@@ -1129,6 +1171,12 @@
       "name": "Melee Please (Continued)",
       "steamId": "2155304980",
       "version": "1.6.0"
+    },
+    {
+      "author": "Bamba + Haderoth",
+      "name": "Melee Weapons For All Tech Levels",
+      "steamId": "3726524693",
+      "version": null
     },
     {
       "author": "Neceros (Original),  Chris",
@@ -1152,6 +1200,12 @@
       "author": "4loris4",
       "name": "More Linkables",
       "steamId": "1103809207",
+      "version": null
+    },
+    {
+      "author": "CNEIO",
+      "name": "More Useful Materials",
+      "steamId": "3734307960",
       "version": null
     },
     {
@@ -1183,6 +1237,12 @@
       "name": "Mud's Tribal Apparel - Children Addon",
       "steamId": "3522666426",
       "version": null
+    },
+    {
+      "author": "AmCh",
+      "name": "Need Bar Overflow",
+      "steamId": "2566316158",
+      "version": "1.4.5"
     },
     {
       "author": "Andromeda",
@@ -1242,7 +1302,13 @@
       "author": "Mlie",
       "name": "No Version Warning",
       "steamId": "2599504692",
-      "version": "1.6.102"
+      "version": "1.6.103"
+    },
+    {
+      "author": "ferny",
+      "name": "Node Research",
+      "steamId": "3729878405",
+      "version": null
     },
     {
       "author": "divineDerivative",
@@ -1308,12 +1374,6 @@
       "author": "Ludeon Studios",
       "name": "Odyssey",
       "steamId": null,
-      "version": null
-    },
-    {
-      "author": "zenlor",
-      "name": "OrganizedResearchTech",
-      "steamId": "3217216445",
       "version": null
     },
     {
@@ -1515,6 +1575,12 @@
       "version": null
     },
     {
+      "author": "Torann",
+      "name": "Rim War",
+      "steamId": "2222935097",
+      "version": null
+    },
+    {
       "author": "Airo",
       "name": "Rimbound - Core",
       "steamId": "3397548030",
@@ -1692,7 +1758,7 @@
       "author": "Mlie",
       "name": "Show Me Your Hands",
       "steamId": "2475965842",
-      "version": "1.6.4"
+      "version": "1.6.5"
     },
     {
       "author": "Zaljerem",
@@ -1845,6 +1911,12 @@
       "version": null
     },
     {
+      "author": "ico",
+      "name": "Strip Then Capture",
+      "steamId": "3726963824",
+      "version": null
+    },
+    {
       "author": "Gerrymon",
       "name": "Stylized Slave Collars and Headgears",
       "steamId": "3040600773",
@@ -1981,6 +2053,12 @@
       "name": "Ultimate Storyteller [1.4-1.6]",
       "steamId": "2887952810",
       "version": "1.2"
+    },
+    {
+      "author": "Febvre, GLONASS",
+      "name": "Uruk StoryTellers Expanded - Eridu The Trader",
+      "steamId": "3540145892",
+      "version": null
     },
     {
       "author": "Ushanka",
@@ -2337,6 +2415,12 @@
       "version": null
     },
     {
+      "author": "Aliza",
+      "name": "Vanilla Melee Modes",
+      "steamId": "3675337268",
+      "version": null
+    },
+    {
       "author": "Oskar Potocki,  Kikohi",
       "name": "Vanilla Nutrient Paste Expanded",
       "steamId": "2920385763",
@@ -2529,12 +2613,6 @@
       "version": null
     },
     {
-      "author": "Oskar Potocki,  Kikohi",
-      "name": "Vanilla Storytellers Expanded - Winston Waves",
-      "steamId": "3215569151",
-      "version": null
-    },
-    {
       "author": "Oskar Potocki,  xrushha,  Arquebus,  Taranchuk",
       "name": "Vanilla Temperature Expanded",
       "steamId": "3202046258",
@@ -2668,6 +2746,18 @@
     },
     {
       "author": "Sentinel",
+      "name": "VPE - Blader",
+      "steamId": "3556391825",
+      "version": "1.0"
+    },
+    {
+      "author": "Sentinel",
+      "name": "VPE - Bugmancer",
+      "steamId": "3457332499",
+      "version": "1.0"
+    },
+    {
+      "author": "Sentinel",
       "name": "VPE - Gravcaster",
       "steamId": "3526559471",
       "version": "1.0"
@@ -2679,6 +2769,12 @@
       "version": "1.0"
     },
     {
+      "author": "Morton",
+      "name": "VPE - Hydromancer (Retexture)",
+      "steamId": "3724679401",
+      "version": null
+    },
+    {
       "author": "Sentinel",
       "name": "VPE - Neurophage",
       "steamId": "3610344026",
@@ -2686,8 +2782,26 @@
     },
     {
       "author": "Sentinel",
+      "name": "VPE - Sentinel Framework",
+      "steamId": "3724841120",
+      "version": "1.0"
+    },
+    {
+      "author": "Sentinel",
       "name": "VPE - Umbra",
       "steamId": "3566637178",
+      "version": "1.0"
+    },
+    {
+      "author": "Morton",
+      "name": "VPE - Umbra (Retexture)",
+      "steamId": "3724143158",
+      "version": null
+    },
+    {
+      "author": "Sentinel",
+      "name": "VPE - Veincaster",
+      "steamId": "3677511885",
       "version": "1.0"
     },
     {
@@ -2757,6 +2871,12 @@
       "version": null
     },
     {
+      "author": "Zoshsgahdnkc",
+      "name": "Wolfein Race Extra Genes",
+      "steamId": "3728917646",
+      "version": "0.1"
+    },
+    {
       "author": "Ancot,  MelonDove",
       "name": "Wolfein Race Gene Patch",
       "steamId": "3473178683",
@@ -2767,6 +2887,12 @@
       "name": "WoodLogs are not weapons!",
       "steamId": "3505855751",
       "version": "1.2.6"
+    },
+    {
+      "author": "Waggish Pluto",
+      "name": "Xenotype Summary",
+      "steamId": "3710012135",
+      "version": null
     },
     {
       "author": "Imranfish",
@@ -2785,12 +2911,6 @@
       "name": "Zal's Library",
       "steamId": "3435271181",
       "version": "1.1.0"
-    },
-    {
-      "author": "AbobaShark",
-      "name": "Zoology: Realistic Animal Overhaul",
-      "steamId": "3679396881",
-      "version": "0.4"
     }
   ]
 }
