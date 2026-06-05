@@ -120779,6 +120779,51 @@
       "Category": "Psytrainers",
       "Enabled": true,
       "modactive": true
+    },
+    "VWE_Gun_GaussRifle_Unique": {
+      "DefName": "VWE_Gun_GaussRifle_Unique",
+      "CustomName": "Unique gauss rifle",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Vanilla Weapons Expanded - Coilguns",
+      "BasePrice": 1215,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "VWE_Gun_GaussMagnum_Unique": {
+      "DefName": "VWE_Gun_GaussMagnum_Unique",
+      "CustomName": "Unique gauss revolver",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Vanilla Weapons Expanded - Coilguns",
+      "BasePrice": 690,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
+    },
+    "VWE_Gun_GaussLance_Unique": {
+      "DefName": "VWE_Gun_GaussLance_Unique",
+      "CustomName": "Unique gauss lance",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": true,
+      "IsWearable": false,
+      "Mod": "Vanilla Weapons Expanded - Coilguns",
+      "BasePrice": 3195,
+      "Category": "Weapon",
+      "Enabled": true,
+      "modactive": true
     }
   }
 }

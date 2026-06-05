@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-05-30T20:19:42.6803509Z",
-  "totalActiveMods": 485,
+  "exportedAt": "2026-06-05T19:46:21.2120564Z",
+  "totalActiveMods": 486,
   "mods": [
     {
       "author": "Veltaris",
@@ -60,6 +60,12 @@
       "author": "KittahKhan",
       "name": "[Kit] Graze up",
       "steamId": "2302739121",
+      "version": null
+    },
+    {
+      "author": "Chicken Plucker,  Taranchuk",
+      "name": "[RH2] Hand-To-Hand",
+      "steamId": "2556532381",
       "version": null
     },
     {
@@ -411,6 +417,12 @@
       "version": null
     },
     {
+      "author": "Olli",
+      "name": "Butter++",
+      "steamId": "3643170015",
+      "version": null
+    },
+    {
       "author": "Andreas Pardeike",
       "name": "Camera+",
       "steamId": "867467808",
@@ -703,12 +715,6 @@
       "name": "Dub's Paint Shop",
       "steamId": "1579516669",
       "version": "1.2.756"
-    },
-    {
-      "author": "Dubwise",
-      "name": "Dubs Performance Analyzer",
-      "steamId": "2038874626",
-      "version": null
     },
     {
       "author": "Dubwise",
@@ -1110,7 +1116,7 @@
       "author": "Mlie",
       "name": "Live With The Pain",
       "steamId": "2659985388",
-      "version": "1.6.1"
+      "version": "1.6.2"
     },
     {
       "author": "ilyvion",
@@ -1302,7 +1308,7 @@
       "author": "Mlie",
       "name": "No Version Warning",
       "steamId": "2599504692",
-      "version": "1.6.103"
+      "version": "1.6.104"
     },
     {
       "author": "ferny",
@@ -2673,7 +2679,7 @@
       "version": null
     },
     {
-      "author": "Oskar Potocki,  AveryTheKitty,  Taranchuk",
+      "author": "Oskar Potocki,  AveryTheKitty,  Taranchuk,  Sokyran",
       "name": "Vanilla Weapons Expanded - Coilguns",
       "steamId": "2375692535",
       "version": null
