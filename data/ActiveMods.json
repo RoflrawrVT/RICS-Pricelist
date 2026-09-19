@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-09-09T18:33:10.8675987Z",
-  "totalActiveMods": 505,
+  "exportedAt": "2026-09-19T17:31:01.7524007Z",
+  "totalActiveMods": 512,
   "mods": [
     {
       "author": "Veltaris",
@@ -18,13 +18,13 @@
       "author": "Captolamia",
       "name": "[CAP] RICS Storyteller",
       "steamId": "3794174734",
-      "version": null
+      "version": "1.1.0"
     },
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
       "steamId": "3603078790",
-      "version": null
+      "version": "1.49.0"
     },
     {
       "author": "DRILLED_HEAD",
@@ -291,6 +291,12 @@
       "version": null
     },
     {
+      "author": "Mortis, Aelflead Wayne, Elseud, DemonRoka, valzietine, MrHydralisk, BlackMarket420, Veltaris, B4ttl3m3d, GoGaTio",
+      "name": "Apex Mechanoids",
+      "steamId": "3792325789",
+      "version": null
+    },
+    {
       "author": "ALIEN,  Elktor31",
       "name": "Arasaka Corporation (Continued)",
       "steamId": "3571093776",
@@ -471,6 +477,12 @@
       "version": null
     },
     {
+      "author": "ferny",
+      "name": "Character Development",
+      "steamId": "3770112044",
+      "version": null
+    },
+    {
       "author": "void",
       "name": "Character Editor",
       "steamId": "1874644848",
@@ -522,6 +534,12 @@
       "author": "BreadMo AOBA",
       "name": "Cinders of the Embergarden",
       "steamId": "3421959154",
+      "version": null
+    },
+    {
+      "author": "Leo39994",
+      "name": "Clean Research Sort",
+      "steamId": "3566639513",
       "version": null
     },
     {
@@ -619,6 +637,12 @@
       "name": "Deep Orbit",
       "steamId": "3533793836",
       "version": null
+    },
+    {
+      "author": "Alias",
+      "name": "De-generalize Work",
+      "steamId": "2011655761",
+      "version": "2.0.0"
     },
     {
       "author": "DetVisor",
@@ -732,7 +756,7 @@
       "author": "Dubwise",
       "name": "Dubs Mint Minimap",
       "steamId": "1662119905",
-      "version": "1.3.791"
+      "version": "1.3.793"
     },
     {
       "author": "Dubwise",
@@ -768,6 +792,12 @@
       "author": "Crow",
       "name": "Dust Bunnies",
       "steamId": "3480725900",
+      "version": null
+    },
+    {
+      "author": "alite",
+      "name": "EBSG Framework",
+      "steamId": "3112549163",
       "version": null
     },
     {
@@ -834,6 +864,12 @@
       "author": "TGPArcher + maintainers",
       "name": "Faction Manager v1.6",
       "steamId": "2878135150",
+      "version": null
+    },
+    {
+      "author": "Kosaro",
+      "name": "Fahrenheit and Celsius",
+      "steamId": "937759575",
       "version": null
     },
     {
@@ -1083,12 +1119,6 @@
       "version": null
     },
     {
-      "author": "Jelly Creative",
-      "name": "ISEKAI RPG LEVELING",
-      "steamId": "3657580708",
-      "version": null
-    },
-    {
       "author": "anobs,  jecrell, contributors",
       "name": "JecsTools Unofficial 1.6 BETA",
       "steamId": "3524247750",
@@ -1104,13 +1134,7 @@
       "author": "Mlie",
       "name": "Just Put It Over There",
       "steamId": "2856471776",
-      "version": "1.6.0"
-    },
-    {
-      "author": "Goblins4Lyfe",
-      "name": "Kid Apparel Expanded",
-      "steamId": "3548557988",
-      "version": null
+      "version": "1.6.1"
     },
     {
       "author": "Ancot",
@@ -1128,6 +1152,12 @@
       "author": "Kilo",
       "name": "Kilo's Femboy Stuff",
       "steamId": "3546430493",
+      "version": null
+    },
+    {
+      "author": "Seioch,  MaroonToon,  Ninedaylongbow",
+      "name": "Kurin HAR Edition",
+      "steamId": "2326430787",
       "version": null
     },
     {
@@ -1164,7 +1194,7 @@
       "author": "ilyvion",
       "name": "Loading Progress",
       "steamId": "3535481557",
-      "version": "0.14.0"
+      "version": "0.15.0"
     },
     {
       "author": "Nekoemi, zed_0xff",
@@ -1239,16 +1269,16 @@
       "version": "1.10.1"
     },
     {
+      "author": "ViralReaction",
+      "name": "Missile Girl - Performance Mod",
+      "steamId": "3712928623",
+      "version": null
+    },
+    {
       "author": "Fluffy",
       "name": "Mod Manager (Continued)",
       "steamId": "3306654341",
       "version": "1.6.8"
-    },
-    {
-      "author": "astryl",
-      "name": "Modern Dev Tools",
-      "steamId": "3771602203",
-      "version": null
     },
     {
       "author": "Astryl",
@@ -1260,18 +1290,6 @@
       "author": "Astryl",
       "name": "Modern Faction Menu",
       "steamId": "3742926690",
-      "version": null
-    },
-    {
-      "author": "Astryl",
-      "name": "Modern History Menu",
-      "steamId": "3742925193",
-      "version": null
-    },
-    {
-      "author": "Astryl",
-      "name": "Modern Ideology Menu",
-      "steamId": "3743026027",
       "version": null
     },
     {
@@ -1290,7 +1308,7 @@
       "author": "astryl",
       "name": "Modern Psycasts UI",
       "steamId": "3745137736",
-      "version": null
+      "version": "1.2.1"
     },
     {
       "author": "CloakerM8,  Halituis Amaricanous",
@@ -1345,6 +1363,12 @@
       "name": "Need Bar Overflow",
       "steamId": "2566316158",
       "version": "1.4.7"
+    },
+    {
+      "author": "Sovereign, Elseud, DetVisor, Visandar, Alite",
+      "name": "Nephilim Xenotype Reborn",
+      "steamId": "3542508261",
+      "version": null
     },
     {
       "author": "Andromeda",
@@ -1404,13 +1428,7 @@
       "author": "Mlie",
       "name": "No Version Warning",
       "steamId": "2599504692",
-      "version": "1.6.111"
-    },
-    {
-      "author": "ferny",
-      "name": "Node Research",
-      "steamId": "3729878405",
-      "version": null
+      "version": "1.6.113"
     },
     {
       "author": "divineDerivative",
@@ -1509,12 +1527,6 @@
       "version": null
     },
     {
-      "author": "ponpeco",
-      "name": "PKC All-Age Patch",
-      "steamId": "3331523366",
-      "version": "ver1.3"
-    },
-    {
       "author": "Scherub",
       "name": "Planning Extended",
       "steamId": "2877392159",
@@ -1539,10 +1551,10 @@
       "version": null
     },
     {
-      "author": "ponpeco",
-      "name": "Ponpeco Kids' Clothes",
-      "steamId": "3237739433",
-      "version": "1.14"
+      "author": "PRNS_hegel",
+      "name": "Ponytail is Kawaii (Continued)",
+      "steamId": "2039006216",
+      "version": "1.6.2"
     },
     {
       "author": "carriedactyl",
@@ -1623,6 +1635,18 @@
       "version": "1.6.4"
     },
     {
+      "author": "快乐柠萌茶",
+      "name": "Realistic Human Sounds Anime Overhaul",
+      "steamId": "2874326666",
+      "version": null
+    },
+    {
+      "author": "Verniy709",
+      "name": "Realistic Humansounds HAR Patch",
+      "steamId": "2505010072",
+      "version": null
+    },
+    {
       "author": "Helixien,  Oracle of Thessia",
       "name": "ReBuild: Doors and Corners",
       "steamId": "3262718980",
@@ -1672,8 +1696,8 @@
     },
     {
       "author": "CharlotteRGB",
-      "name": "RGBmods Autism+",
-      "steamId": "3553372790",
+      "name": "RGBmods Autism",
+      "steamId": "3549643478",
       "version": null
     },
     {
@@ -1686,12 +1710,6 @@
       "author": "LingLuo",
       "name": "Rim cockroach",
       "steamId": "3196253802",
-      "version": null
-    },
-    {
-      "author": "Torann",
-      "name": "Rim War",
-      "steamId": "2222935097",
       "version": null
     },
     {
@@ -1803,6 +1821,12 @@
       "version": "1.6.1.0"
     },
     {
+      "author": "sakama",
+      "name": "Roppoi hair",
+      "steamId": "1100547661",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Royalty",
       "steamId": null,
@@ -1845,6 +1869,12 @@
       "version": null
     },
     {
+      "author": "CH4AcKO3",
+      "name": "Search and Rescue",
+      "steamId": "3796056278",
+      "version": "0.1.0-alpha.13"
+    },
+    {
       "author": "avilmask",
       "name": "Self Dyeing",
       "steamId": "2562859859",
@@ -1872,7 +1902,7 @@
       "author": "Mlie",
       "name": "Show Me Your Hands",
       "steamId": "2475965842",
-      "version": "1.6.8"
+      "version": "1.6.10"
     },
     {
       "author": "Zaljerem",
@@ -1932,6 +1962,12 @@
       "author": "Uuugggg",
       "name": "Smart Medicine - Continued",
       "steamId": "3526251680",
+      "version": null
+    },
+    {
+      "author": "lebek",
+      "name": "Smart Priorities",
+      "steamId": "3719842338",
       "version": null
     },
     {
@@ -2238,12 +2274,6 @@
       "author": "Oskar Potocki,  Trunken,  Sarg Bjornson",
       "name": "Vanilla Armour Expanded",
       "steamId": "1814988282",
-      "version": null
-    },
-    {
-      "author": "Oskar Potocki,  Legodude17,  Sarg Bjornson",
-      "name": "Vanilla Aspirations Expanded",
-      "steamId": "3268401022",
       "version": null
     },
     {
@@ -2559,6 +2589,12 @@
       "version": null
     },
     {
+      "author": "Oskar Potocki,  Sarg Bjornson",
+      "name": "Vanilla Plants Expanded - Flowers",
+      "steamId": "3748351639",
+      "version": null
+    },
+    {
       "author": "Sarg Bjornson,  Oskar Potocki",
       "name": "Vanilla Plants Expanded - More Plants",
       "steamId": "2748889667",
@@ -2724,6 +2760,12 @@
       "author": "Oskar Potocki",
       "name": "Vanilla Storytellers Expanded - Perry Persistent",
       "steamId": "2149702069",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Kikohi",
+      "name": "Vanilla Storytellers Expanded - Winston Waves",
+      "steamId": "3215569151",
       "version": null
     },
     {
