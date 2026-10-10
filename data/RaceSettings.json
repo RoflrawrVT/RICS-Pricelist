@@ -12,7 +12,7 @@
     "AllowedGenders": {
       "AllowMale": true,
       "AllowFemale": true,
-      "AllowOther": true
+      "AllowOther": false
     },
     "XenotypePrices": {
       "Baseliner": 1750.0,
@@ -254,7 +254,7 @@
     "AllowedGenders": {
       "AllowMale": true,
       "AllowFemale": true,
-      "AllowOther": true
+      "AllowOther": false
     },
     "XenotypePrices": {
       "Baseliner": 1750.0,
@@ -353,7 +353,7 @@
       "KiiroXenotype": 1750.0
     },
     "EnabledXenotypes": {
-      "Baseliner": true,
+      "Baseliner": false,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -462,7 +462,7 @@
     "AllowedGenders": {
       "AllowMale": true,
       "AllowFemale": true,
-      "AllowOther": true
+      "AllowOther": false
     },
     "XenotypePrices": {
       "Baseliner": 1900.0,
@@ -698,7 +698,7 @@
     "BasePrice": 2000,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": false,
+    "AllowCustomXenotypes": true,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -912,7 +912,7 @@
     "AllowedGenders": {
       "AllowMale": true,
       "AllowFemale": true,
-      "AllowOther": true
+      "AllowOther": false
     },
     "XenotypePrices": {
       "Baseliner": 1800.0,

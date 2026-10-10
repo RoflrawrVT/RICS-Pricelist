@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-09-19T17:31:01.7524007Z",
-  "totalActiveMods": 512,
+  "exportedAt": "2026-10-10T14:57:08.2853010Z",
+  "totalActiveMods": 517,
   "mods": [
     {
       "author": "Veltaris",
@@ -18,13 +18,13 @@
       "author": "Captolamia",
       "name": "[CAP] RICS Storyteller",
       "steamId": "3794174734",
-      "version": "1.1.0"
+      "version": "1.2.0"
     },
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
       "steamId": "3603078790",
-      "version": "1.49.0"
+      "version": "1.51.0"
     },
     {
       "author": "DRILLED_HEAD",
@@ -207,7 +207,7 @@
       "version": null
     },
     {
-      "author": "Sarg Bjornson,  Helixien,  Cassie,  Luizi,  Allie",
+      "author": "Sarg Bjornson,  Helixien,  Cassie,  Allie",
       "name": "Alpha Memes",
       "steamId": "2661356814",
       "version": null
@@ -309,10 +309,34 @@
       "version": null
     },
     {
+      "author": "ZIOM",
+      "name": "Arsenal - Core",
+      "steamId": "3807049445",
+      "version": "1.4.0"
+    },
+    {
       "author": "IcyCheeseCake",
       "name": "Arsenal - Orbital Security",
       "steamId": "3688808936",
       "version": null
+    },
+    {
+      "author": "ZIOM",
+      "name": "Arsenal - Russia",
+      "steamId": "3811240395",
+      "version": "2.0.1"
+    },
+    {
+      "author": "ZIOM",
+      "name": "Arsenal - South Africa",
+      "steamId": "3810043977",
+      "version": "1.0.0"
+    },
+    {
+      "author": "ZIOM",
+      "name": "Arsenal - South Korea Weapon Pack",
+      "steamId": "3813951063",
+      "version": "1.0.0"
     },
     {
       "author": "ThatHitmann",
@@ -514,7 +538,7 @@
     },
     {
       "author": "Heather Athebyne",
-      "name": "Children Learn on Caravan",
+      "name": "Children Learn on Caravan [USE NEW FORK!]",
       "steamId": "3497730368",
       "version": null
     },
@@ -738,7 +762,7 @@
       "author": "Dubwise",
       "name": "Dubs Apparel Tweaks",
       "steamId": "2296697286",
-      "version": null
+      "version": "1.6.1"
     },
     {
       "author": "Dubwise",
@@ -750,19 +774,19 @@
       "author": "Dubwise",
       "name": "Dubs Mint Menus",
       "steamId": "1446523594",
-      "version": "1.3.1247"
+      "version": "1.3.1684"
     },
     {
       "author": "Dubwise",
       "name": "Dubs Mint Minimap",
       "steamId": "1662119905",
-      "version": "1.3.793"
+      "version": "1.3.800"
     },
     {
       "author": "Dubwise",
       "name": "Dub's Paint Shop",
       "steamId": "1579516669",
-      "version": "1.2.756"
+      "version": "1.2.1198"
     },
     {
       "author": "Dubwise",
@@ -774,13 +798,13 @@
       "author": "Dubwise",
       "name": "Dubs Rimkit",
       "steamId": "832333531",
-      "version": "1.5.2022"
+      "version": "1.5.2023"
     },
     {
       "author": "Dubwise",
       "name": "Dubs Skylights",
       "steamId": "833899765",
-      "version": "1.5.2642"
+      "version": "1.5.3070"
     },
     {
       "author": "BJR1984",
@@ -1101,6 +1125,12 @@
       "version": null
     },
     {
+      "author": "lordfelix",
+      "name": "Immersive Warfare",
+      "steamId": "3815290781",
+      "version": null
+    },
+    {
       "author": "Zaf",
       "name": "Inject Genes",
       "steamId": "2918091446",
@@ -1194,7 +1224,7 @@
       "author": "ilyvion",
       "name": "Loading Progress",
       "steamId": "3535481557",
-      "version": "0.15.0"
+      "version": "0.18.0"
     },
     {
       "author": "Nekoemi, zed_0xff",
@@ -1252,7 +1282,7 @@
     },
     {
       "author": "Bamba + Haderoth + Samael Gray",
-      "name": "Melee Weapons For All Tech Levels",
+      "name": "Melee Weapons For All Post-Medieval Tech Levels",
       "steamId": "3726524693",
       "version": null
     },
@@ -1308,7 +1338,7 @@
       "author": "astryl",
       "name": "Modern Psycasts UI",
       "steamId": "3745137736",
-      "version": "1.2.1"
+      "version": "1.2.2"
     },
     {
       "author": "CloakerM8,  Halituis Amaricanous",
@@ -1428,7 +1458,7 @@
       "author": "Mlie",
       "name": "No Version Warning",
       "steamId": "2599504692",
-      "version": "1.6.113"
+      "version": "1.6.115"
     },
     {
       "author": "divineDerivative",
@@ -1656,7 +1686,7 @@
       "author": "Zaljerem",
       "name": "Red Alert! (Continued)",
       "steamId": "3559280714",
-      "version": "1.0.5"
+      "version": "1.0.6"
     },
     {
       "author": "StockSounds",
@@ -1746,7 +1776,7 @@
       "author": "Dubwise",
       "name": "Rimefeller",
       "steamId": "1321849735",
-      "version": "1.2.1634"
+      "version": "1.2.2067"
     },
     {
       "author": "VexedTrees",
@@ -1872,7 +1902,7 @@
       "author": "CH4AcKO3",
       "name": "Search and Rescue",
       "steamId": "3796056278",
-      "version": "0.1.0-alpha.13"
+      "version": "0.1.0-alpha.17"
     },
     {
       "author": "avilmask",
@@ -1902,7 +1932,7 @@
       "author": "Mlie",
       "name": "Show Me Your Hands",
       "steamId": "2475965842",
-      "version": "1.6.10"
+      "version": "1.6.14"
     },
     {
       "author": "Zaljerem",
@@ -2964,7 +2994,7 @@
       "author": "VVenchov",
       "name": "VV - New Harvest",
       "steamId": "3448458106",
-      "version": "10.1"
+      "version": "11.0"
     },
     {
       "author": "Kilo",
@@ -3066,7 +3096,7 @@
       "author": "Zaljerem",
       "name": "Zal's Library",
       "steamId": "3435271181",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
     {
       "author": "Grey·Oviin/OpenAI Assisted",
